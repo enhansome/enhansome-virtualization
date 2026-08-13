@@ -54,7 +54,7 @@ A curated list of awesome resources about virtualization.
 ### Intel
 
 * [Intel® 64 and IA-32 architectures software developer's manual volume 3C](https://software.intel.com/sites/default/files/managed/7c/f1/326019-sdm-vol-3c.pdf)
-* [VMCS Layout](https://github.com/LordNoteworthy/cpu-internals/blob/master/VMCS-Layout.pdf) ⭐ 1,207 | 🐛 0 | 🌐 C | 📅 2026-06-24
+* [VMCS Layout](https://github.com/LordNoteworthy/cpu-internals/blob/master/VMCS-Layout.pdf) ⭐ 1,208 | 🐛 0 | 🌐 C | 📅 2026-06-24
 * [VMX Caps](https://htmlpreview.github.io/?https://github.com/honorarybot/VmxCaps/blob/master/vmx.html)
 
 ### AMD
@@ -106,14 +106,14 @@ A curated list of awesome resources about virtualization.
   * [ramooflax](https://github.com/airbus-seclab/ramooflax) ⭐ 185 | 🐛 2 | 🌐 C | 📅 2018-02-08
 * 2014: [HOSS](http://www.cs.unc.edu/~porter/hoss/)
 * 2016:
-  * [SimpleVisor](https://github.com/ionescu007/SimpleVisor) ⭐ 1,980 | 🐛 11 | 🌐 C | 📅 2024-05-08
+  * [SimpleVisor](https://github.com/ionescu007/SimpleVisor) ⭐ 1,981 | 🐛 11 | 🌐 C | 📅 2024-05-08
   * [HyperPlatform](https://github.com/tandasat/HyperPlatform) ⚠️ Archived
   * [HyperBone](https://github.com/DarthTon/HyperBone) ⭐ 947 | 🐛 20 | 🌐 C | 📅 2019-10-18
   * [VivienneVMM](https://github.com/changeofpace/VivienneVMM) ⭐ 829 | 🐛 3 | 🌐 C++ | 📅 2020-09-07
   * [kHypervisor](https://github.com/Kelvinhack/kHypervisor) ⭐ 455 | 🐛 2 | 🌐 C++ | 📅 2021-11-29
   * [rustyvisor](https://github.com/iankronquist/rustyvisor) ⭐ 134 | 🐛 8 | 🌐 Rust | 📅 2022-02-12
 * 2017:
-  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,028 | 🐛 102 | 🌐 Rust | 📅 2026-08-12
+  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,040 | 🐛 99 | 🌐 Rust | 📅 2026-08-13
   * [Intel HAXM](https://github.com/intel/haxm) ⚠️ Archived
   * [ksm](https://github.com/asamy/ksm) ⭐ 863 | 🐛 13 | 🌐 C | 📅 2021-10-20
   * [SimpleSvm](https://github.com/tandasat/SimpleSvm) ⭐ 624 | 🐛 0 | 🌐 C++ | 📅 2025-03-03
@@ -121,19 +121,19 @@ A curated list of awesome resources about virtualization.
   * [crosvm](https://github.com/dgreid/crosvm) ⭐ 55 | 🐛 0 | 🌐 Rust | 📅 2026-04-26
   * [GiantVM](https://github.com/GiantVM/homepage) ⭐ 31 | 🐛 2 | 🌐 PostScript | 📅 2025-09-16
 * 2018:
-  * [gvisor](https://github.com/google/gvisor) ⭐ 19,069 | 🐛 777 | 🌐 Go | 📅 2026-08-13
-  * [hvpp](https://github.com/wbenny/hvpp) ⭐ 1,340 | 🐛 27 | 🌐 C++ | 📅 2021-03-15
-  * [gbhv](https://github.com/Gbps/gbhv) ⭐ 974 | 🐛 12 | 🌐 C | 📅 2023-04-24
+  * [gvisor](https://github.com/google/gvisor) ⭐ 19,074 | 🐛 775 | 🌐 Go | 📅 2026-08-13
+  * [hvpp](https://github.com/wbenny/hvpp) ⭐ 1,341 | 🐛 27 | 🌐 C++ | 📅 2021-03-15
+  * [gbhv](https://github.com/Gbps/gbhv) ⭐ 975 | 🐛 12 | 🌐 C | 📅 2023-04-24
   * [nemu](https://github.com/intel/nemu) ⚠️ Archived
   * [NoirVisor](https://github.com/Zero-Tang/NoirVisor) ⭐ 648 | 🐛 2 | 🌐 C | 📅 2026-08-01
   * [applepie](https://github.com/gamozolabs/applepie) ⭐ 384 | 🐛 16 | 🌐 C++ | 📅 2019-02-05
   * [boxy](https://github.com/Bareflank/boxy) ⭐ 63 | 🐛 2 | 🌐 C++ | 📅 2020-09-10
   * [ACRN](https://projectacrn.github.io/)
 * 2019:
-  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,102 | 🐛 221 | 🌐 Rust | 📅 2026-08-11
+  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,104 | 🐛 224 | 🌐 Rust | 📅 2026-08-11
   * [rust-vmm](https://github.com/rust-vmm/community) ⭐ 607 | 🐛 47 | 📅 2026-07-21
   * [orange\_slice](https://github.com/gamozolabs/orange_slice) ⭐ 550 | 🐛 1 | 🌐 Rust | 📅 2021-03-21
-  * [uhyve](https://github.com/hermitcore/uhyve) ⭐ 294 | 🐛 51 | 🌐 Rust | 📅 2026-08-10
+  * [uhyve](https://github.com/hermitcore/uhyve) ⭐ 294 | 🐛 47 | 🌐 Rust | 📅 2026-08-13
   * [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger) ⭐ 240 | 🐛 0 | 🌐 C++ | 📅 2020-07-26
   * [zpp\_hypervisor](https://github.com/eyalz800/zpp_hypervisor) ⭐ 149 | 🐛 1 | 🌐 C++ | 📅 2026-08-13
   * [ZeldaOS.x86\_64](https://github.com/chillancezen/ZeldaOS.x86_64) ⭐ 96 | 🐛 1 | 🌐 C | 📅 2020-08-04
@@ -144,7 +144,7 @@ A curated list of awesome resources about virtualization.
   * [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg) ⭐ 747 | 🐛 3 | 🌐 C | 📅 2024-08-15
   * [MicroV](https://github.com/Bareflank/MicroV) ⭐ 281 | 🐛 15 | 🌐 C++ | 📅 2024-08-22
   * [barbervisor](https://github.com/Cisco-Talos/Barbervisor) ⭐ 172 | 🐛 0 | 🌐 Rust | 📅 2020-12-02
-  * [Hedron](https://github.com/cyberus-technology/hedron) ⭐ 83 | 🐛 1 | 🌐 C++ | 📅 2023-10-08
+  * [Hedron](https://github.com/cyberus-technology/hedron) ⭐ 83 | 🐛 0 | 🌐 C++ | 📅 2023-10-08
   * [Zelda.RISCV](https://github.com/chillancezen/Zelda.RISCV.Emulator) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2026-08-06
   * [napoca](https://github.com/napocahv/napoca)
 
@@ -234,7 +234,7 @@ A curated list of awesome resources about virtualization.
 * [Patchguard: Detection of Hypervisor Based Introspection - P1](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p1/)
 * [Patchguard: Detection of Hypervisor Based Introspection - P2](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p2/)
 * [Reversing with HyperDbg (Dbg3301) - OpenSecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)
-* [VMAware (VM detection library and tool)](https://github.com/kernelwernel/VMAware) ⭐ 1,340 | 🐛 0 | 🌐 C++ | 📅 2026-08-12
+* [VMAware (VM detection library and tool)](https://github.com/kernelwernel/VMAware) ⭐ 1,340 | 🐛 0 | 🌐 C++ | 📅 2026-08-13
 
 ## Attacking Hypervisors
 
