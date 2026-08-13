@@ -1,0 +1,716 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2013: jailhouse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-18T14:16:54Z",
+            "owner": "siemens",
+            "repo": "jailhouse",
+            "stars": 1950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015: Bareflank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-14T18:09:39Z",
+            "owner": "Bareflank",
+            "repo": "hypervisor",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "2010:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NOVA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-06-30T15:12:09Z",
+                "owner": "udosteinberg",
+                "repo": "NOVA",
+                "stars": 454
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2011:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TinyVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2019-03-23T09:15:28Z",
+                "owner": "jakogut",
+                "repo": "tinyvm",
+                "stars": 3322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ramooflax",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2018-02-08T11:26:51Z",
+                "owner": "airbus-seclab",
+                "repo": "ramooflax",
+                "stars": 185
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2016:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SimpleVisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-05-08T14:28:23Z",
+                "owner": "ionescu007",
+                "repo": "SimpleVisor",
+                "stars": 1980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyperPlatform",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2023-11-24T15:18:16Z",
+                "owner": "tandasat",
+                "repo": "HyperPlatform",
+                "stars": 1757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyperBone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2019-10-18T09:56:01Z",
+                "owner": "DarthTon",
+                "repo": "HyperBone",
+                "stars": 947
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VivienneVMM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2020-09-07T19:17:54Z",
+                "owner": "changeofpace",
+                "repo": "VivienneVMM",
+                "stars": 829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kHypervisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2021-11-29T23:37:36Z",
+                "owner": "KelvinMsft",
+                "repo": "kHypervisor",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rustyvisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2022-02-12T09:50:11Z",
+                "owner": "iankronquist",
+                "repo": "rustyvisor",
+                "stars": 134
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2017:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Firecracker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-12T14:23:40Z",
+                "owner": "firecracker-microvm",
+                "repo": "firecracker",
+                "stars": 36028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Intel HAXM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2023-01-28T11:14:08Z",
+                "owner": "intel",
+                "repo": "haxm",
+                "stars": 3307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ksm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-10-20T19:32:29Z",
+                "owner": "asamy",
+                "repo": "ksm",
+                "stars": 863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimpleSvm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-03-03T16:15:01Z",
+                "owner": "tandasat",
+                "repo": "SimpleSvm",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hypervisor-for-beginners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2017-10-10T04:35:10Z",
+                "owner": "rohaaan",
+                "repo": "hypervisor-for-beginners",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crosvm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-04-26T05:34:33Z",
+                "owner": "dgreid",
+                "repo": "crosvm",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GiantVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PostScript",
+                "last_commit": "2025-09-16T04:39:46Z",
+                "owner": "GiantVM",
+                "repo": "giantvm.github.io",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2018:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gvisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T03:36:58Z",
+                "owner": "google",
+                "repo": "gvisor",
+                "stars": 19069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hvpp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2021-03-15T12:43:53Z",
+                "owner": "wbenny",
+                "repo": "hvpp",
+                "stars": 1340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gbhv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-04-24T11:34:33Z",
+                "owner": "Gbps",
+                "repo": "gbhv",
+                "stars": 974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nemu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2021-04-14T13:16:12Z",
+                "owner": "intel",
+                "repo": "nemu",
+                "stars": 926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoirVisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-01T15:56:35Z",
+                "owner": "Zero-Tang",
+                "repo": "NoirVisor",
+                "stars": 648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "applepie",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-02-05T16:15:59Z",
+                "owner": "gamozolabs",
+                "repo": "applepie",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boxy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2020-09-10T20:58:41Z",
+                "owner": "Bareflank",
+                "repo": "boxy",
+                "stars": 63
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2019:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cloud-hypervisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-11T01:35:09Z",
+                "owner": "cloud-hypervisor",
+                "repo": "cloud-hypervisor",
+                "stars": 6102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-vmm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-21T08:40:57Z",
+                "owner": "rust-vmm",
+                "repo": "community",
+                "stars": 607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orange_slice",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2021-03-21T09:22:29Z",
+                "owner": "gamozolabs",
+                "repo": "orange_slice",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uhyve",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-10T06:22:59Z",
+                "owner": "hermit-os",
+                "repo": "uhyve",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemoryRanger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2020-07-26T10:25:14Z",
+                "owner": "IgorKorkin",
+                "repo": "MemoryRanger",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zpp_hypervisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T01:01:17Z",
+                "owner": "eyalz800",
+                "repo": "zpp_hypervisor",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeldaOS.x86_64",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2020-08-04T08:42:30Z",
+                "owner": "chillancezen",
+                "repo": "ZeldaOS.x86_64",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vbh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2024-04-08T16:08:48Z",
+                "owner": "intel",
+                "repo": "vbh",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mythril",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2022-09-16T17:49:58Z",
+                "owner": "mythril-hypervisor",
+                "repo": "mythril",
+                "stars": 55
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2020:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniVisorPkg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-08-15T14:30:25Z",
+                "owner": "tandasat",
+                "repo": "MiniVisorPkg",
+                "stars": 747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-08-22T15:34:20Z",
+                "owner": "Bareflank",
+                "repo": "MicroV",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "barbervisor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2020-12-02T20:01:11Z",
+                "owner": "Cisco-Talos",
+                "repo": "Barbervisor",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedron",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-10-08T08:44:30Z",
+                "owner": "cyberus-technology",
+                "repo": "hedron",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zelda.RISCV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-06T00:44:29Z",
+                "owner": "chillancezen",
+                "repo": "Zelda.RISCV.Emulator",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "napoca",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Research Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mainstream Hypervisors Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyper-V internals researches (2006-2019)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T07:14:35Z",
+            "owner": "gerhart01",
+            "repo": "Hyper-V-Internals",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "2018:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-08T23:25:32Z",
+                "owner": "microsoft",
+                "repo": "MSRC-Security-Research",
+                "stars": 1388
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Hyper-V"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hypervisor Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Hyper-V Exploitation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-11T04:18:12Z",
+            "owner": "shogunlab",
+            "repo": "awesome-hyper-v-exploitation",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "2018",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-08T23:25:32Z",
+                "owner": "microsoft",
+                "repo": "MSRC-Security-Research",
+                "stars": 1388
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Hyper-V"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:10.521Z",
+    "original_repository": "Wenzel/awesome-virtualization",
+    "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
+    "enhanced_repository": "enhansome/enhansome-virtualization",
+    "enhanced_repository_description": null,
+    "title": "Awesome Virtualization with stars"
+  }
+}
