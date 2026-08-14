@@ -196,10 +196,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T15:38:37Z",
+                "last_commit": "2026-08-14T16:49:57Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36040
+                "stars": 36055
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2021-10-20T19:32:29Z",
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 863
+                "stars": 865
               }
             },
             {
@@ -301,10 +301,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-13T17:45:36Z",
+                "last_commit": "2026-08-14T17:40:33Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19074
+                "stars": 19083
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 975
+                "stars": 976
               }
             },
             {
@@ -406,10 +406,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-11T01:35:09Z",
+                "last_commit": "2026-08-14T15:39:57Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6104
+                "stars": 6105
               }
             },
             {
@@ -448,7 +448,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T11:37:35Z",
+                "last_commit": "2026-08-14T07:43:11Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:46:00.679Z",
+    "last_updated": "2026-08-14T17:41:37.045Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
     "enhanced_repository": "enhansome/enhansome-virtualization",
