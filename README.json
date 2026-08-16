@@ -19,7 +19,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -108,7 +108,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1981
+                "stars": 1982
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2019-10-18T09:56:01Z",
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 947
+                "stars": 948
               }
             },
             {
@@ -199,7 +199,7 @@
                 "last_commit": "2026-08-14T16:49:57Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36082
+                "stars": 36095
               }
             },
             {
@@ -213,7 +213,7 @@
                 "last_commit": "2023-01-28T11:14:08Z",
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3307
+                "stars": 3306
               }
             },
             {
@@ -304,7 +304,7 @@
                 "last_commit": "2026-08-15T05:51:27Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19089
+                "stars": 19094
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-08-01T15:56:35Z",
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 649
+                "stars": 650
               }
             },
             {
@@ -409,7 +409,7 @@
                 "last_commit": "2026-08-15T01:03:20Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6108
+                "stars": 6111
               }
             },
             {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:08:36.729Z",
+    "last_updated": "2026-08-16T17:07:29.535Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
     "enhanced_repository": "enhansome/enhansome-virtualization",
