@@ -19,7 +19,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1951
+            "stars": 1952
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2021-11-29T23:37:36Z",
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 455
+                "stars": 454
               }
             },
             {
@@ -196,10 +196,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-14T16:49:57Z",
+                "last_commit": "2026-08-17T10:23:32Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36095
+                "stars": 36106
               }
             },
             {
@@ -283,7 +283,7 @@
                 "last_commit": "2025-09-16T04:39:46Z",
                 "owner": "GiantVM",
                 "repo": "giantvm.github.io",
-                "stars": 31
+                "stars": 32
               }
             }
           ]
@@ -301,10 +301,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-15T05:51:27Z",
+                "last_commit": "2026-08-17T17:13:13Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19094
+                "stars": 19097
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 976
+                "stars": 977
               }
             },
             {
@@ -406,10 +406,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T01:03:20Z",
+                "last_commit": "2026-08-17T08:58:06Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6111
+                "stars": 6114
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-07-21T08:40:57Z",
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 609
+                "stars": 610
               }
             },
             {
@@ -448,7 +448,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T08:24:32Z",
+                "last_commit": "2026-08-17T07:03:36Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:07:29.535Z",
+    "last_updated": "2026-08-17T17:13:26.532Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
     "enhanced_repository": "enhansome/enhansome-virtualization",
