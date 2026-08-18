@@ -33,7 +33,7 @@
             "last_commit": "2024-08-14T18:09:39Z",
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1509
+            "stars": 1510
           }
         },
         {
@@ -73,7 +73,7 @@
                 "last_commit": "2019-03-23T09:15:28Z",
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3322
+                "stars": 3323
               }
             },
             {
@@ -108,7 +108,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1982
+                "stars": 1983
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2023-11-24T15:18:16Z",
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1757
+                "stars": 1758
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2019-10-18T09:56:01Z",
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 948
+                "stars": 949
               }
             },
             {
@@ -196,10 +196,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-17T10:23:32Z",
+                "last_commit": "2026-08-18T17:02:42Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36106
+                "stars": 36122
               }
             },
             {
@@ -301,10 +301,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-17T17:13:13Z",
+                "last_commit": "2026-08-18T17:13:18Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19097
+                "stars": 19105
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2021-03-15T12:43:53Z",
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1341
+                "stars": 1343
               }
             },
             {
@@ -406,10 +406,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-17T08:58:06Z",
+                "last_commit": "2026-08-18T15:15:05Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6114
+                "stars": 6118
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-07-21T08:40:57Z",
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 610
+                "stars": 609
               }
             },
             {
@@ -448,7 +448,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-17T07:03:36Z",
+                "last_commit": "2026-08-18T08:36:38Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -650,7 +650,7 @@
                 "last_commit": "2024-08-08T23:25:32Z",
                 "owner": "microsoft",
                 "repo": "MSRC-Security-Research",
-                "stars": 1389
+                "stars": 1390
               }
             }
           ]
@@ -696,7 +696,7 @@
                 "last_commit": "2024-08-08T23:25:32Z",
                 "owner": "microsoft",
                 "repo": "MSRC-Security-Research",
-                "stars": 1389
+                "stars": 1390
               }
             }
           ]
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:13:26.532Z",
+    "last_updated": "2026-08-18T17:13:33.323Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
     "enhanced_repository": "enhansome/enhansome-virtualization",
