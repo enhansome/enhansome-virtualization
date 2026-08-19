@@ -154,7 +154,7 @@
                 "last_commit": "2020-09-07T19:17:54Z",
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 829
+                "stars": 830
               }
             },
             {
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:47:59Z",
+                "last_commit": "2026-08-19T16:38:50Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36138
+                "stars": 36146
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-19T07:34:53Z",
+                "last_commit": "2026-08-19T16:58:16Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19113
+                "stars": 19117
               }
             },
             {
@@ -427,7 +427,7 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-19T11:52:57Z",
+                "last_commit": "2026-08-19T16:04:51Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
                 "stars": 6123
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:48.198Z",
+    "last_updated": "2026-08-19T17:12:52.377Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",

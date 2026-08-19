@@ -109,11 +109,11 @@ A curated list of awesome resources about virtualization.
   * [SimpleVisor](https://github.com/ionescu007/SimpleVisor) ⭐ 1,983 | 🐛 11 | 🌐 C | 📅 2024-05-08
   * [HyperPlatform](https://github.com/tandasat/HyperPlatform) ⚠️ Archived
   * [HyperBone](https://github.com/DarthTon/HyperBone) ⭐ 949 | 🐛 20 | 🌐 C | 📅 2019-10-18
-  * [VivienneVMM](https://github.com/changeofpace/VivienneVMM) ⭐ 829 | 🐛 3 | 🌐 C++ | 📅 2020-09-07
+  * [VivienneVMM](https://github.com/changeofpace/VivienneVMM) ⭐ 830 | 🐛 3 | 🌐 C++ | 📅 2020-09-07
   * [kHypervisor](https://github.com/Kelvinhack/kHypervisor) ⭐ 454 | 🐛 2 | 🌐 C++ | 📅 2021-11-29
   * [rustyvisor](https://github.com/iankronquist/rustyvisor) ⭐ 134 | 🐛 8 | 🌐 Rust | 📅 2022-02-12
 * 2017:
-  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,138 | 🐛 111 | 🌐 Rust | 📅 2026-08-19
+  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,146 | 🐛 105 | 🌐 Rust | 📅 2026-08-19
   * [Intel HAXM](https://github.com/intel/haxm) ⚠️ Archived
   * [ksm](https://github.com/asamy/ksm) ⭐ 865 | 🐛 13 | 🌐 C | 📅 2021-10-20
   * [SimpleSvm](https://github.com/tandasat/SimpleSvm) ⭐ 626 | 🐛 0 | 🌐 C++ | 📅 2025-03-03
@@ -121,7 +121,7 @@ A curated list of awesome resources about virtualization.
   * [crosvm](https://github.com/dgreid/crosvm) ⭐ 55 | 🐛 0 | 🌐 Rust | 📅 2026-04-26
   * [GiantVM](https://github.com/GiantVM/homepage) ⭐ 32 | 🐛 2 | 🌐 PostScript | 📅 2025-09-16
 * 2018:
-  * [gvisor](https://github.com/google/gvisor) ⭐ 19,113 | 🐛 780 | 🌐 Go | 📅 2026-08-19
+  * [gvisor](https://github.com/google/gvisor) ⭐ 19,117 | 🐛 779 | 🌐 Go | 📅 2026-08-19
   * [hvpp](https://github.com/wbenny/hvpp) ⭐ 1,343 | 🐛 27 | 🌐 C++ | 📅 2021-03-15
   * [gbhv](https://github.com/Gbps/gbhv) ⭐ 978 | 🐛 12 | 🌐 C | 📅 2023-04-24
   * [nemu](https://github.com/intel/nemu) ⚠️ Archived
