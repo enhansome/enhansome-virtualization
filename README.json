@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13720762,
             "language": "C",
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43819033,
             "language": "C++",
             "last_commit": "2024-08-14T18:09:39Z",
             "owner": "Bareflank",
@@ -48,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3602509,
                 "language": "C++",
                 "last_commit": "2026-06-30T15:12:09Z",
                 "owner": "udosteinberg",
@@ -69,6 +67,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1231917,
                 "language": "C",
                 "last_commit": "2019-03-23T09:15:28Z",
                 "owner": "jakogut",
@@ -83,6 +82,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1859646,
                 "language": "C",
                 "last_commit": "2018-02-08T11:26:51Z",
                 "owner": "airbus-seclab",
@@ -104,6 +104,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 54048685,
                 "language": "C",
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
@@ -118,6 +119,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 52611236,
                 "language": "C++",
                 "last_commit": "2023-11-24T15:18:16Z",
                 "owner": "tandasat",
@@ -132,6 +134,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55297633,
                 "language": "C",
                 "last_commit": "2019-10-18T09:56:01Z",
                 "owner": "DarthTon",
@@ -146,6 +149,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 142777667,
                 "language": "C++",
                 "last_commit": "2020-09-07T19:17:54Z",
                 "owner": "changeofpace",
@@ -160,6 +164,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 71360076,
                 "language": "C++",
                 "last_commit": "2021-11-29T23:37:36Z",
                 "owner": "KelvinMsft",
@@ -174,6 +179,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78670164,
                 "language": "Rust",
                 "last_commit": "2022-02-12T09:50:11Z",
                 "owner": "iankronquist",
@@ -195,11 +201,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-18T17:02:42Z",
+                "last_commit": "2026-08-19T10:47:59Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36122
+                "stars": 36138
               }
             },
             {
@@ -209,6 +216,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 98257850,
                 "language": "C",
                 "last_commit": "2023-01-28T11:14:08Z",
                 "owner": "intel",
@@ -223,6 +231,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 63276435,
                 "language": "C",
                 "last_commit": "2021-10-20T19:32:29Z",
                 "owner": "asamy",
@@ -237,11 +246,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 88808922,
                 "language": "C++",
                 "last_commit": "2025-03-03T16:15:01Z",
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 625
+                "stars": 626
               }
             },
             {
@@ -251,6 +261,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 106330127,
                 "language": "C",
                 "last_commit": "2017-10-10T04:35:10Z",
                 "owner": "rohaaan",
@@ -265,6 +276,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91861610,
                 "language": "Rust",
                 "last_commit": "2026-04-26T05:34:33Z",
                 "owner": "dgreid",
@@ -279,6 +291,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 153072092,
                 "language": "PostScript",
                 "last_commit": "2025-09-16T04:39:46Z",
                 "owner": "GiantVM",
@@ -300,11 +313,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-18T17:13:18Z",
+                "last_commit": "2026-08-19T07:34:53Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19105
+                "stars": 19113
               }
             },
             {
@@ -314,6 +328,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 142792783,
                 "language": "C++",
                 "last_commit": "2021-03-15T12:43:53Z",
                 "owner": "wbenny",
@@ -328,11 +343,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 150355349,
                 "language": "C",
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 977
+                "stars": 978
               }
             },
             {
@@ -342,6 +358,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 134334760,
                 "language": "C",
                 "last_commit": "2021-04-14T13:16:12Z",
                 "owner": "intel",
@@ -356,6 +373,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 154469818,
                 "language": "C",
                 "last_commit": "2026-08-01T15:56:35Z",
                 "owner": "Zero-Tang",
@@ -370,6 +388,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163827522,
                 "language": "C++",
                 "last_commit": "2019-02-05T16:15:59Z",
                 "owner": "gamozolabs",
@@ -384,6 +403,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 162897475,
                 "language": "C++",
                 "last_commit": "2020-09-10T20:58:41Z",
                 "owner": "Bareflank",
@@ -405,11 +425,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-18T15:15:05Z",
+                "last_commit": "2026-08-19T11:52:57Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6118
+                "stars": 6123
               }
             },
             {
@@ -419,6 +440,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 165305569,
                 "language": null,
                 "last_commit": "2026-07-21T08:40:57Z",
                 "owner": "rust-vmm",
@@ -433,6 +455,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 180018547,
                 "language": "Rust",
                 "last_commit": "2021-03-21T09:22:29Z",
                 "owner": "gamozolabs",
@@ -447,8 +470,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 140960389,
                 "language": "Rust",
-                "last_commit": "2026-08-18T08:36:38Z",
+                "last_commit": "2026-08-19T12:56:14Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -461,6 +485,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 140974760,
                 "language": "C++",
                 "last_commit": "2020-07-26T10:25:14Z",
                 "owner": "IgorKorkin",
@@ -475,6 +500,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184153266,
                 "language": "C++",
                 "last_commit": "2026-08-14T19:35:16Z",
                 "owner": "eyalz800",
@@ -489,6 +515,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160798063,
                 "language": "C",
                 "last_commit": "2020-08-04T08:42:30Z",
                 "owner": "chillancezen",
@@ -503,6 +530,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 168430174,
                 "language": "C",
                 "last_commit": "2024-04-08T16:08:48Z",
                 "owner": "intel",
@@ -517,6 +545,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 211740729,
                 "language": "Rust",
                 "last_commit": "2022-09-16T17:49:58Z",
                 "owner": "mythril-hypervisor",
@@ -538,6 +567,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 242410595,
                 "language": "C",
                 "last_commit": "2024-08-15T14:30:25Z",
                 "owner": "tandasat",
@@ -552,6 +582,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 254735585,
                 "language": "C++",
                 "last_commit": "2024-08-22T15:34:20Z",
                 "owner": "Bareflank",
@@ -566,6 +597,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 284737497,
                 "language": "Rust",
                 "last_commit": "2020-12-02T20:01:11Z",
                 "owner": "Cisco-Talos",
@@ -580,6 +612,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 285554580,
                 "language": "C++",
                 "last_commit": "2023-10-08T08:44:30Z",
                 "owner": "cyberus-technology",
@@ -594,18 +627,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 219533937,
                 "language": "C",
                 "last_commit": "2026-08-06T00:44:29Z",
                 "owner": "chillancezen",
                 "repo": "Zelda.RISCV.Emulator",
                 "stars": 30
               }
-            },
-            {
-              "node_type": "item",
-              "title": "napoca",
-              "description": null,
-              "children": []
             }
           ]
         }
@@ -613,101 +641,110 @@
       "title": "Research Projects"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hyper-V internals researches (2006-2019)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198050575,
+                "language": "C",
+                "last_commit": "2026-08-10T07:14:35Z",
+                "owner": "gerhart01",
+                "repo": "Hyper-V-Internals",
+                "stars": 746
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "2018:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 96475106,
+                    "language": "Python",
+                    "last_commit": "2024-08-08T23:25:32Z",
+                    "owner": "microsoft",
+                    "repo": "MSRC-Security-Research",
+                    "stars": 1390
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hyper-V"
+        }
+      ],
       "title": "Mainstream Hypervisors Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Hyper-V internals researches (2006-2019)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-10T07:14:35Z",
-            "owner": "gerhart01",
-            "repo": "Hyper-V-Internals",
-            "stars": 746
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "2018:",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+              "title": "Awesome Hyper-V Exploitation",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-08T23:25:32Z",
-                "owner": "microsoft",
-                "repo": "MSRC-Security-Research",
-                "stars": 1390
+                "id": 202475376,
+                "language": null,
+                "last_commit": "2025-04-11T04:18:12Z",
+                "owner": "shogunlab",
+                "repo": "awesome-hyper-v-exploitation",
+                "stars": 464
               }
-            }
-          ]
-        }
-      ],
-      "title": "Hyper-V"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hypervisor Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Hyper-V Exploitation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-11T04:18:12Z",
-            "owner": "shogunlab",
-            "repo": "awesome-hyper-v-exploitation",
-            "stars": 463
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "2018",
-          "description": null,
-          "children": [
+            },
             {
-              "node_type": "item",
-              "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+              "node_type": "group",
+              "title": "2018",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-08T23:25:32Z",
-                "owner": "microsoft",
-                "repo": "MSRC-Security-Research",
-                "stars": 1390
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 96475106,
+                    "language": "Python",
+                    "last_commit": "2024-08-08T23:25:32Z",
+                    "owner": "microsoft",
+                    "repo": "MSRC-Security-Research",
+                    "stars": 1390
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hyper-V"
         }
       ],
-      "title": "Hyper-V"
+      "title": "Attacking Hypervisors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:33.323Z",
+    "last_updated": "2026-08-19T12:59:48.198Z",
     "original_repository": "Wenzel/awesome-virtualization",
+    "original_repository_id": 82972367,
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
     "enhanced_repository": "enhansome/enhansome-virtualization",
     "enhanced_repository_description": null,
