@@ -87,7 +87,7 @@
                 "last_commit": "2018-02-08T11:26:51Z",
                 "owner": "airbus-seclab",
                 "repo": "ramooflax",
-                "stars": 185
+                "stars": 184
               }
             }
           ]
@@ -139,7 +139,7 @@
                 "last_commit": "2019-10-18T09:56:01Z",
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 949
+                "stars": 948
               }
             },
             {
@@ -169,7 +169,7 @@
                 "last_commit": "2021-11-29T23:37:36Z",
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-19T16:38:50Z",
+                "last_commit": "2026-08-20T15:52:46Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36146
+                "stars": 36169
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-19T16:58:16Z",
+                "last_commit": "2026-08-20T17:02:01Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19117
+                "stars": 19127
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-08-01T15:56:35Z",
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 650
+                "stars": 648
               }
             },
             {
@@ -393,7 +393,7 @@
                 "last_commit": "2019-02-05T16:15:59Z",
                 "owner": "gamozolabs",
                 "repo": "applepie",
-                "stars": 384
+                "stars": 383
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-19T16:04:51Z",
+                "last_commit": "2026-08-20T15:38:52Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6123
+                "stars": 6127
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2024-08-15T14:30:25Z",
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 747
+                "stars": 746
               }
             },
             {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:12:52.377Z",
+    "last_updated": "2026-08-20T17:15:27.653Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
