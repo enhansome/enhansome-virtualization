@@ -15,7 +15,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1952
+            "stars": 1950
           }
         },
         {
@@ -109,7 +109,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1983
+                "stars": 1982
               }
             },
             {
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-20T15:52:46Z",
+                "last_commit": "2026-08-21T12:41:40Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36169
+                "stars": 36196
               }
             },
             {
@@ -221,7 +221,7 @@
                 "last_commit": "2023-01-28T11:14:08Z",
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3306
+                "stars": 3305
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-20T17:02:01Z",
+                "last_commit": "2026-08-21T17:13:45Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19127
+                "stars": 19134
               }
             },
             {
@@ -348,7 +348,7 @@
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 978
+                "stars": 979
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-20T15:38:52Z",
+                "last_commit": "2026-08-21T16:28:36Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6127
+                "stars": 6129
               }
             },
             {
@@ -502,7 +502,7 @@
                 "archived": false,
                 "id": 184153266,
                 "language": "C++",
-                "last_commit": "2026-08-14T19:35:16Z",
+                "last_commit": "2026-08-21T13:44:28Z",
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
                 "stars": 149
@@ -657,7 +657,7 @@
                 "last_commit": "2026-08-10T07:14:35Z",
                 "owner": "gerhart01",
                 "repo": "Hyper-V-Internals",
-                "stars": 746
+                "stars": 747
               }
             },
             {
@@ -707,7 +707,7 @@
                 "last_commit": "2025-04-11T04:18:12Z",
                 "owner": "shogunlab",
                 "repo": "awesome-hyper-v-exploitation",
-                "stars": 464
+                "stars": 463
               }
             },
             {
@@ -742,10 +742,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:15:27.653Z",
+    "last_updated": "2026-08-21T17:15:25.632Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
-    "original_repository_sha": "af794ec068c48c4744c61b2cd9677810850404dd",
+    "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
     "enhanced_repository": "enhansome/enhansome-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Virtualization with stars"
