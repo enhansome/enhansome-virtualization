@@ -15,7 +15,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-21T12:41:40Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36196
+                "stars": 36205
               }
             },
             {
@@ -278,7 +278,7 @@
                 "archived": false,
                 "id": 91861610,
                 "language": "Rust",
-                "last_commit": "2026-04-26T05:34:33Z",
+                "last_commit": "2026-08-22T04:49:00Z",
                 "owner": "dgreid",
                 "repo": "crosvm",
                 "stars": 55
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-21T17:13:45Z",
+                "last_commit": "2026-08-22T03:52:46Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19134
+                "stars": 19136
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-21T16:28:36Z",
+                "last_commit": "2026-08-22T10:24:37Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6129
+                "stars": 6131
               }
             },
             {
@@ -502,7 +502,7 @@
                 "archived": false,
                 "id": 184153266,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:44:28Z",
+                "last_commit": "2026-08-22T15:54:21Z",
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
                 "stars": 149
@@ -677,7 +677,7 @@
                     "last_commit": "2024-08-08T23:25:32Z",
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1390
+                    "stars": 1391
                   }
                 }
               ]
@@ -727,7 +727,7 @@
                     "last_commit": "2024-08-08T23:25:32Z",
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1390
+                    "stars": 1391
                   }
                 }
               ]
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:15:25.632Z",
+    "last_updated": "2026-08-22T17:07:14.606Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
