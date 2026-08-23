@@ -30,7 +30,7 @@
             "last_commit": "2024-08-14T18:09:39Z",
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-06-30T15:12:09Z",
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 454
+                "stars": 455
               }
             }
           ]
@@ -72,7 +72,7 @@
                 "last_commit": "2019-03-23T09:15:28Z",
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3323
+                "stars": 3324
               }
             },
             {
@@ -109,7 +109,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1982
+                "stars": 1983
               }
             },
             {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-21T12:41:40Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36205
+                "stars": 36223
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-22T03:52:46Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19136
+                "stars": 19142
               }
             },
             {
@@ -348,7 +348,7 @@
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 979
+                "stars": 981
               }
             },
             {
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 154469818,
                 "language": "C",
-                "last_commit": "2026-08-01T15:56:35Z",
+                "last_commit": "2026-08-23T15:00:15Z",
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 648
+                "stars": 647
               }
             },
             {
@@ -430,7 +430,7 @@
                 "last_commit": "2026-08-22T10:24:37Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6131
+                "stars": 6134
               }
             },
             {
@@ -445,7 +445,7 @@
                 "last_commit": "2026-07-21T08:40:57Z",
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 609
+                "stars": 610
               }
             },
             {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:07:14.606Z",
+    "last_updated": "2026-08-23T17:09:27.178Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
