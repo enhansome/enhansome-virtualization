@@ -72,7 +72,7 @@
                 "last_commit": "2019-03-23T09:15:28Z",
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3324
+                "stars": 3323
               }
             },
             {
@@ -124,7 +124,7 @@
                 "last_commit": "2023-11-24T15:18:16Z",
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1758
+                "stars": 1759
               }
             },
             {
@@ -169,7 +169,7 @@
                 "last_commit": "2021-11-29T23:37:36Z",
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 455
+                "stars": 454
               }
             },
             {
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-21T12:41:40Z",
+                "last_commit": "2026-08-24T13:47:34Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36223
+                "stars": 36239
               }
             },
             {
@@ -221,7 +221,7 @@
                 "last_commit": "2023-01-28T11:14:08Z",
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3305
+                "stars": 3306
               }
             },
             {
@@ -278,7 +278,7 @@
                 "archived": false,
                 "id": 91861610,
                 "language": "Rust",
-                "last_commit": "2026-08-22T04:49:00Z",
+                "last_commit": "2026-08-23T20:39:54Z",
                 "owner": "dgreid",
                 "repo": "crosvm",
                 "stars": 55
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-22T03:52:46Z",
+                "last_commit": "2026-08-24T06:16:16Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19142
+                "stars": 19146
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2021-03-15T12:43:53Z",
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1343
+                "stars": 1344
               }
             },
             {
@@ -348,7 +348,7 @@
                 "last_commit": "2023-04-24T11:34:33Z",
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 981
+                "stars": 982
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-08-23T15:00:15Z",
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 647
+                "stars": 648
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-22T10:24:37Z",
+                "last_commit": "2026-08-24T13:50:43Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6134
+                "stars": 6138
               }
             },
             {
@@ -472,7 +472,7 @@
                 "archived": false,
                 "id": 140960389,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:56:14Z",
+                "last_commit": "2026-08-24T05:46:11Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -490,7 +490,7 @@
                 "last_commit": "2020-07-26T10:25:14Z",
                 "owner": "IgorKorkin",
                 "repo": "MemoryRanger",
-                "stars": 240
+                "stars": 241
               }
             },
             {
@@ -647,6 +647,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "QEMU Starter (a beginners guide)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635415760,
+                "language": "Shell",
+                "last_commit": "2023-08-10T12:55:00Z",
+                "owner": "TunaCici",
+                "repo": "QEMU_Starter",
+                "stars": 117
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QEMU"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Hyper-V internals researches (2006-2019)",
               "description": null,
               "children": [],
@@ -707,7 +729,7 @@
                 "last_commit": "2025-04-11T04:18:12Z",
                 "owner": "shogunlab",
                 "repo": "awesome-hyper-v-exploitation",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -742,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:09:27.178Z",
+    "last_updated": "2026-08-24T14:13:39.654Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
