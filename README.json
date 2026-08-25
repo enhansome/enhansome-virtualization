@@ -109,7 +109,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1983
+                "stars": 1984
               }
             },
             {
@@ -139,7 +139,7 @@
                 "last_commit": "2019-10-18T09:56:01Z",
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 948
+                "stars": 949
               }
             },
             {
@@ -154,7 +154,7 @@
                 "last_commit": "2020-09-07T19:17:54Z",
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 830
+                "stars": 831
               }
             },
             {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-24T17:04:29Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36241
+                "stars": 36252
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-24T17:13:37Z",
+                "last_commit": "2026-08-25T04:05:18Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19146
+                "stars": 19152
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-24T16:40:30Z",
+                "last_commit": "2026-08-24T20:56:12Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6139
+                "stars": 6140
               }
             },
             {
@@ -445,7 +445,7 @@
                 "last_commit": "2026-07-21T08:40:57Z",
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 610
+                "stars": 611
               }
             },
             {
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:18:50.714Z",
+    "last_updated": "2026-08-25T05:58:14.933Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
