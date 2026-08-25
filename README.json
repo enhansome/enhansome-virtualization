@@ -72,7 +72,7 @@
                 "last_commit": "2019-03-23T09:15:28Z",
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3323
+                "stars": 3322
               }
             },
             {
@@ -169,7 +169,7 @@
                 "last_commit": "2021-11-29T23:37:36Z",
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 107505869,
                 "language": "Rust",
-                "last_commit": "2026-08-24T17:04:29Z",
+                "last_commit": "2026-08-25T16:25:16Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36252
+                "stars": 36260
               }
             },
             {
@@ -221,7 +221,7 @@
                 "last_commit": "2023-01-28T11:14:08Z",
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3306
+                "stars": 3305
               }
             },
             {
@@ -236,7 +236,7 @@
                 "last_commit": "2021-10-20T19:32:29Z",
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 865
+                "stars": 866
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:05:18Z",
+                "last_commit": "2026-08-25T17:18:34Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19152
+                "stars": 19154
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-24T20:56:12Z",
+                "last_commit": "2026-08-25T15:29:14Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6140
+                "stars": 6144
               }
             },
             {
@@ -699,7 +699,7 @@
                     "last_commit": "2024-08-08T23:25:32Z",
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1391
+                    "stars": 1392
                   }
                 }
               ]
@@ -749,7 +749,7 @@
                     "last_commit": "2024-08-08T23:25:32Z",
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1391
+                    "stars": 1392
                   }
                 }
               ]
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:14.933Z",
+    "last_updated": "2026-08-25T17:18:48.950Z",
     "original_repository": "Wenzel/awesome-virtualization",
     "original_repository_id": 82972367,
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
