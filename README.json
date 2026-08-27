@@ -15,7 +15,7 @@
             "last_commit": "2024-05-18T14:16:54Z",
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1952
+            "stars": 1956
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-14T18:09:39Z",
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1511
+            "stars": 1512
           }
         },
         {
@@ -109,7 +109,7 @@
                 "last_commit": "2024-05-08T14:28:23Z",
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1984
+                "stars": 1985
               }
             },
             {
@@ -124,7 +124,7 @@
                 "last_commit": "2023-11-24T15:18:16Z",
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1759
+                "stars": 1760
               }
             },
             {
@@ -154,7 +154,7 @@
                 "last_commit": "2020-09-07T19:17:54Z",
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 831
+                "stars": 832
               }
             },
             {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-26T17:44:55Z",
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36295
+                "stars": 36312
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2026-08-23T20:39:54Z",
                 "owner": "dgreid",
                 "repo": "crosvm",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-26T18:19:44Z",
+                "last_commit": "2026-08-27T12:09:08Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19161
+                "stars": 19168
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2021-03-15T12:43:53Z",
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1344
+                "stars": 1345
               }
             },
             {
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-26T15:21:05Z",
+                "last_commit": "2026-08-27T10:13:32Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6147
+                "stars": 6151
               }
             },
             {
@@ -472,7 +472,7 @@
                 "archived": false,
                 "id": 140960389,
                 "language": "Rust",
-                "last_commit": "2026-08-26T16:41:19Z",
+                "last_commit": "2026-08-27T10:40:48Z",
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294
@@ -572,7 +572,7 @@
                 "last_commit": "2024-08-15T14:30:25Z",
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 746
+                "stars": 747
               }
             },
             {
@@ -764,9 +764,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:28:36.828Z",
-    "original_repository": "Wenzel/awesome-virtualization",
-    "original_repository_id": 82972367,
+    "last_updated": "2026-08-27T12:11:08.418Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 82972367,
+      "language": null,
+      "last_commit": "2026-08-21T08:55:44Z",
+      "owner": "Wenzel",
+      "repo": "awesome-virtualization",
+      "stars": 1971
+    },
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
     "enhanced_repository": "enhansome/enhansome-virtualization",
     "enhanced_repository_description": null,
