@@ -121,7 +121,7 @@ A curated list of awesome resources about virtualization.
   * [crosvm](https://github.com/dgreid/crosvm) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-08-23
   * [GiantVM](https://github.com/GiantVM/homepage) ⭐ 32 | 🐛 2 | 🌐 PostScript | 📅 2025-09-16
 * 2018:
-  * [gvisor](https://github.com/google/gvisor) ⭐ 19,184 | 🐛 847 | 🌐 Go | 📅 2026-08-29
+  * [gvisor](https://github.com/google/gvisor) ⭐ 19,185 | 🐛 838 | 🌐 Go | 📅 2026-08-29
   * [hvpp](https://github.com/wbenny/hvpp) ⭐ 1,344 | 🐛 27 | 🌐 C++ | 📅 2021-03-15
   * [gbhv](https://github.com/Gbps/gbhv) ⭐ 982 | 🐛 12 | 🌐 C | 📅 2023-04-24
   * [nemu](https://github.com/intel/nemu) ⚠️ Archived
@@ -130,7 +130,7 @@ A curated list of awesome resources about virtualization.
   * [boxy](https://github.com/Bareflank/boxy) ⭐ 63 | 🐛 2 | 🌐 C++ | 📅 2020-09-10
   * [ACRN](https://projectacrn.github.io/)
 * 2019:
-  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,156 | 🐛 220 | 🌐 Rust | 📅 2026-08-28
+  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,157 | 🐛 220 | 🌐 Rust | 📅 2026-08-28
   * [rust-vmm](https://github.com/rust-vmm/community) ⭐ 612 | 🐛 47 | 📅 2026-07-21
   * [orange\_slice](https://github.com/gamozolabs/orange_slice) ⭐ 550 | 🐛 1 | 🌐 Rust | 📅 2021-03-21
   * [uhyve](https://github.com/hermitcore/uhyve) ⭐ 294 | 🐛 56 | 🌐 Rust | 📅 2026-08-27

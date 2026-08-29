@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux-based partitioning hypervisor",
+            "homepage": null,
             "id": 13720762,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-18T14:16:54Z",
+            "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1958
+            "stars": 1958,
+            "topics": [
+              "hypervisor",
+              "linux",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T00:45:06.092Z"
         },
@@ -26,12 +35,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lightweight hypervisor SDK written in C++ with support for Windows, Linux and UEFI",
+            "homepage": null,
             "id": 43819033,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-14T18:09:39Z",
+            "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1512
+            "stars": 1512,
+            "topics": [
+              "bareflank",
+              "cxx",
+              "gsl",
+              "hypervisor",
+              "linux",
+              "stl",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:45:06.092Z"
         },
@@ -47,12 +69,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOVA Microhypervisor",
+                "homepage": "http://hypervisor.org",
                 "id": 3602509,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:47:08Z",
+                "open_issues": 2,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 456
+                "stars": 456,
+                "topics": [
+                  "aarch64",
+                  "cplusplus",
+                  "hypervisor",
+                  "kernel",
+                  "microhypervisor",
+                  "microkernel",
+                  "performance",
+                  "security",
+                  "virtualization",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -70,12 +108,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.",
+                "homepage": null,
                 "id": 1231917,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-03-23T09:15:28Z",
+                "open_issues": 6,
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3323
+                "stars": 3323,
+                "topics": [
+                  "c",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -86,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a bare metal (type 1) VMM (hypervisor) with a python remote control API",
+                "homepage": null,
                 "id": 1859646,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-02-08T11:26:51Z",
+                "open_issues": 2,
                 "owner": "airbus-seclab",
                 "repo": "ramooflax",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -109,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least amount of assembly code (10 lines), and having the smallest amount of VMX-related code to support dynamic hyperjacking and unhyperjacking (that is, virtualizing the host state from within the host). It works on Windows and UEFI.",
+                "homepage": "http://ionescu007.github.io/SimpleVisor/",
                 "id": 54048685,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-05-08T14:28:23Z",
+                "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1985
+                "stars": 1985,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -125,12 +181,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.",
+                "homepage": null,
                 "id": 52611236,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-11-24T15:18:16Z",
+                "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1760
+                "stars": 1760,
+                "topics": [
+                  "driver",
+                  "hypervisor",
+                  "virtual-machine",
+                  "windows-kernel"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -141,12 +207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic VT-x hypervisor with hooks",
+                "homepage": null,
                 "id": 55297633,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-10-18T09:56:01Z",
+                "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 950
+                "stars": 950,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -157,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.",
+                "homepage": null,
                 "id": 142777667,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-09-07T19:17:54Z",
+                "open_issues": 3,
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 832
+                "stars": 832,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -173,12 +249,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kHypervisor is a lightweight bluepill-like nested VMM for Windows, it provides and emulating a basic function of Intel VT-x",
+                "homepage": "https://kelvinsecshare.blogspot.com/2018/02/how-does-nested-virtualization-works.html",
                 "id": 71360076,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-11-29T23:37:36Z",
+                "open_issues": 2,
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "hyperplatform",
+                  "kernel",
+                  "nested-virtualization",
+                  "vcpus",
+                  "virtualization",
+                  "virtualization-based-security",
+                  "vm-entry-emulation",
+                  "vt-x",
+                  "windbg",
+                  "windows-kernel"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -189,12 +281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hypervisor written in Rust.",
+                "homepage": null,
                 "id": 78670164,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-02-12T09:50:11Z",
+                "open_issues": 8,
                 "owner": "iankronquist",
                 "repo": "rustyvisor",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "hypervisors",
+                  "linux-kernel",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -212,12 +313,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure and fast microVMs for serverless computing.",
+                "homepage": "http://firecracker-microvm.io",
                 "id": 107505869,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:50:23Z",
+                "open_issues": 103,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36351
+                "stars": 36351,
+                "topics": [
+                  "containers",
+                  "minimalist",
+                  "open-source",
+                  "oversubscription",
+                  "rust",
+                  "sandbox",
+                  "serverless",
+                  "virtual-machine",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -228,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Intel® Hardware Accelerated Execution Manager (Intel® HAXM)",
+                "homepage": null,
                 "id": 98257850,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-01-28T11:14:08Z",
+                "open_issues": 154,
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3305
+                "stars": 3305,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -244,12 +365,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux.  Builtin userspace sandbox and introspection engine.",
+                "homepage": "https://asamy.github.io/ksm/",
                 "id": 63276435,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2021-10-20T19:32:29Z",
+                "open_issues": 13,
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 866
+                "stars": 866,
+                "topics": [
+                  "hypervisor",
+                  "introspect",
+                  "kernel",
+                  "linux",
+                  "reverse-engineering",
+                  "sandbox",
+                  "virtualization",
+                  "windows",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -260,12 +396,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic educational hypervisor for Windows on AMD processors.",
+                "homepage": null,
                 "id": 88808922,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-03-03T16:15:01Z",
+                "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "amd",
+                  "driver",
+                  "hypervisor",
+                  "svm",
+                  "virtual-machine",
+                  "windows-kernel"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -276,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intel Vt-x/EPT based thin-hypervisor for windows with minimum possible code.",
+                "homepage": null,
                 "id": 106330127,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2017-10-10T04:35:10Z",
+                "open_issues": 0,
                 "owner": "rohaaan",
                 "repo": "hypervisor-for-beginners",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -292,12 +445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 91861610,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T20:39:54Z",
+                "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -308,12 +466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 153072092,
                 "language": "PostScript",
+                "license": null,
                 "last_commit": "2025-09-16T04:39:46Z",
+                "open_issues": 2,
                 "owner": "GiantVM",
                 "repo": "giantvm.github.io",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -331,12 +494,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application Kernel for Containers",
+                "homepage": "https://gvisor.dev",
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-29T00:35:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:08:36Z",
+                "open_issues": 838,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19184
+                "stars": 19185,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kernel",
+                  "kubernetes",
+                  "linux",
+                  "oci",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -347,12 +523,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hvpp is a lightweight Intel x64/VT-x hypervisor written in C++ focused primarily on virtualization of already running operating system",
+                "homepage": null,
                 "id": 142792783,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-03-15T12:43:53Z",
+                "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1344
+                "stars": 1344,
+                "topics": [
+                  "ept",
+                  "hypervisor",
+                  "introspection",
+                  "sandbox",
+                  "virtualization",
+                  "vt-x",
+                  "x64"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -363,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple x86-64 VT-x Hypervisor with EPT Hooking",
+                "homepage": null,
                 "id": 150355349,
                 "language": "C",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-04-24T11:34:33Z",
+                "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 982
+                "stars": 982,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -379,12 +573,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead",
+                "homepage": null,
                 "id": 134334760,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-04-14T13:16:12Z",
+                "open_issues": 0,
                 "owner": "intel",
                 "repo": "nemu",
-                "stars": 926
+                "stars": 926,
+                "topics": [
+                  "hardware-acceleration",
+                  "qemu",
+                  "virtualization",
+                  "vmm"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -395,12 +599,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Grimoire Hypervisor solution for x86 Processors with experimental nested virtualization support. Remastering with Rust in progress.",
+                "homepage": null,
                 "id": 154469818,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:00:15Z",
+                "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 649
+                "stars": 649,
+                "topics": [
+                  "amd-v",
+                  "hypervisor",
+                  "iommu",
+                  "nested-virtualization",
+                  "rust",
+                  "security",
+                  "uefi",
+                  "virtualization",
+                  "vt-d",
+                  "vt-x"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -411,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hypervisor for fuzzing built with WHVP and Bochs",
+                "homepage": null,
                 "id": 163827522,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-02-05T16:15:59Z",
+                "open_issues": 16,
                 "owner": "gamozolabs",
                 "repo": "applepie",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -427,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bareflank based hypervisor with guest support",
+                "homepage": null,
                 "id": 162897475,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-09-10T20:58:41Z",
+                "open_issues": 2,
                 "owner": "Bareflank",
                 "repo": "boxy",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -450,12 +680,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+                "homepage": "https://www.cloudhypervisor.org",
                 "id": 184341774,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-28T17:02:01Z",
+                "open_issues": 220,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6156
+                "stars": 6157,
+                "topics": [
+                  "cloud-workloads",
+                  "kvm",
+                  "rust-vmm",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -466,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rust-vmm community content",
+                "homepage": null,
                 "id": 165305569,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-21T08:40:57Z",
+                "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 612
+                "stars": 612,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -482,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost",
+                "homepage": null,
                 "id": 180018547,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-03-21T09:22:29Z",
+                "open_issues": 1,
                 "owner": "gamozolabs",
                 "repo": "orange_slice",
-                "stars": 550
+                "stars": 550,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -498,12 +748,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A specialized hypervisor for Hermit.",
+                "homepage": null,
                 "id": 140960389,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:17:34Z",
+                "open_issues": 56,
                 "owner": "hermit-os",
                 "repo": "uhyve",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "hermit",
+                  "hypervisor",
+                  "kvm",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -514,12 +774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MemoryRanger protects kernel data and code by running drivers and hosting data in isolated kernel enclaves using VT-x and EPT features. MemoryRanger has been presented at the BlackHat, HITB, CDFSL.",
+                "homepage": "https://igorkorkin.blogspot.com",
                 "id": 140974760,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-07-26T10:25:14Z",
+                "open_issues": 0,
                 "owner": "IgorKorkin",
                 "repo": "MemoryRanger",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -530,12 +795,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple hypervisor for learning experience.",
+                "homepage": null,
                 "id": 184153266,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:15:58Z",
+                "open_issues": 1,
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "hypervisor"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -546,12 +818,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "64bit bare metal hypervisor built from scratch with Intel VT-x ",
+                "homepage": null,
                 "id": 160798063,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-08-04T08:42:30Z",
+                "open_issues": 1,
                 "owner": "chillancezen",
                 "repo": "ZeldaOS.x86_64",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "hardware-assisted",
+                  "hypervisor",
+                  "smp",
+                  "virtualization",
+                  "vmx",
+                  "vt-x"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -562,12 +846,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 168430174,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-08T16:08:48Z",
+                "open_issues": 2,
                 "owner": "intel",
                 "repo": "vbh",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -578,12 +867,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hypervisor written in rust",
+                "homepage": null,
                 "id": 211740729,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-09-16T17:49:58Z",
+                "open_issues": 50,
                 "owner": "mythril-hypervisor",
                 "repo": "mythril",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "hypervisor",
+                  "intel",
+                  "rust",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -601,12 +900,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The research UEFI hypervisor that supports booting an operating system.",
+                "homepage": "https://standa-note.blogspot.com/2020/03/introduction-and-design-considerations.html",
                 "id": 242410595,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-08-15T14:30:25Z",
+                "open_issues": 4,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 747
+                "stars": 747,
+                "topics": [
+                  "hypervisor",
+                  "kernel",
+                  "uefi",
+                  "vt-x"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -617,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro hypervisor for running micro VMs",
+                "homepage": null,
                 "id": 254735585,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-22T15:34:20Z",
+                "open_issues": 15,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -633,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intel x86 bare metal hypervisor for researching snapshot fuzzing ideas.",
+                "homepage": null,
                 "id": 284737497,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-02T20:01:11Z",
+                "open_issues": 0,
                 "owner": "Cisco-Talos",
                 "repo": "Barbervisor",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -649,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Hedron Microhypervisor",
+                "homepage": null,
                 "id": 285554580,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-08T08:44:30Z",
+                "open_issues": 0,
                 "owner": "cyberus-technology",
                 "repo": "hedron",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -665,12 +989,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A System Level RISCV32 Emulator Over x86_64: capable of booting RISCV Linux",
+                "homepage": null,
                 "id": 219533937,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-06T00:44:29Z",
+                "open_issues": 1,
                 "owner": "chillancezen",
                 "repo": "Zelda.RISCV.Emulator",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "dynamic-binary-translation",
+                  "risc-v",
+                  "riscv",
+                  "riscv-emulator",
+                  "riscv-isa",
+                  "riscv32",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -691,12 +1028,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pseudo-wiki; offering guides, tutorials, and examples for new QEMU users.",
+                "homepage": null,
                 "id": 635415760,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-08-10T12:55:00Z",
+                "open_issues": 3,
                 "owner": "TunaCici",
                 "repo": "QEMU_Starter",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "emulation",
+                  "qemu",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             }
@@ -714,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internals information about Hyper-V",
+                "homepage": null,
                 "id": 198050575,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-10T07:14:35Z",
+                "open_issues": 0,
                 "owner": "gerhart01",
                 "repo": "Hyper-V-Internals",
-                "stars": 747
+                "stars": 747,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -735,12 +1086,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security Research from the Microsoft Security Response Center (MSRC)",
+                    "homepage": null,
                     "id": 96475106,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-08-08T23:25:32Z",
+                    "open_issues": 8,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1392
+                    "stars": 1392,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
                 }
@@ -766,12 +1122,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.",
+                "homepage": null,
                 "id": 202475376,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-11T04:18:12Z",
+                "open_issues": 0,
                 "owner": "shogunlab",
                 "repo": "awesome-hyper-v-exploitation",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "hyper-v"
+                ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
             },
@@ -787,12 +1150,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security Research from the Microsoft Security Response Center (MSRC)",
+                    "homepage": null,
                     "id": 96475106,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-08-08T23:25:32Z",
+                    "open_issues": 8,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1392
+                    "stars": 1392,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
                 }
@@ -808,15 +1176,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:45:06.092Z",
+    "last_updated": "2026-08-29T04:26:54.758Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of resources about Virtualization",
+      "homepage": null,
       "id": 82972367,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-08-21T08:55:44Z",
+      "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1970
+      "stars": 1970,
+      "topics": [
+        "hypervisor",
+        "virtual-machine",
+        "virtualization"
+      ]
     },
     "original_repository_sha": "766a7906b47889f0bbb461740b078d3cf0156091",
     "enhanced_repository": "enhansome/enhansome-virtualization",
