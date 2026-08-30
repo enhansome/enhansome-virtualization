@@ -322,7 +322,7 @@
                 "open_issues": 104,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36364,
+                "stars": 36380,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T19:22:20Z",
+                "last_commit": "2026-08-30T18:47:40Z",
                 "open_issues": 842,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19189,
+                "stars": 19195,
                 "topics": [
                   "containers",
                   "docker",
@@ -686,10 +686,10 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-08-29T10:12:24Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6157,
+                "stars": 6163,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1131,7 +1131,7 @@
                 "open_issues": 0,
                 "owner": "shogunlab",
                 "repo": "awesome-hyper-v-exploitation",
-                "stars": 468,
+                "stars": 470,
                 "topics": [
                   "hyper-v"
                 ]
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:31:56.693Z",
+    "last_updated": "2026-08-30T19:30:42.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
