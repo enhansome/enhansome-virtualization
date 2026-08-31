@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "bareflank",
               "cxx",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1985,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T11:50:23Z",
-                "open_issues": 104,
+                "last_commit": "2026-08-31T16:56:17Z",
+                "open_issues": 109,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36380,
+                "stars": 36404,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -353,7 +353,7 @@
                 "open_issues": 154,
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3305,
+                "stars": 3306,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "amd",
                   "driver",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T18:47:40Z",
-                "open_issues": 842,
+                "last_commit": "2026-08-31T21:39:15Z",
+                "open_issues": 867,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19195,
+                "stars": 19205,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1344,
+                "stars": 1346,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-08-29T10:12:24Z",
-                "open_issues": 221,
+                "last_commit": "2026-08-31T14:35:46Z",
+                "open_issues": 223,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6163,
+                "stars": 6168,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -753,8 +753,8 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T17:17:34Z",
-                "open_issues": 56,
+                "last_commit": "2026-08-31T06:38:10Z",
+                "open_issues": 58,
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294,
@@ -779,7 +779,7 @@
                 "id": 140974760,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2020-07-26T10:25:14Z",
+                "last_commit": "2026-08-31T20:31:08Z",
                 "open_issues": 0,
                 "owner": "IgorKorkin",
                 "repo": "MemoryRanger",
@@ -935,7 +935,7 @@
                 "open_issues": 15,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:30:42.164Z",
+    "last_updated": "2026-08-31T21:39:47.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
