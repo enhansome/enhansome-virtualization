@@ -75,7 +75,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:47:08Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
                 "stars": 457,
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1997,
+                "stars": 1998,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -190,7 +190,7 @@
                 "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "driver",
                   "hypervisor",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T16:57:56Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-03T17:15:54Z",
+                "open_issues": 104,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36456,
+                "stars": 36491,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T19:07:11Z",
-                "open_issues": 866,
+                "last_commit": "2026-09-03T19:13:52Z",
+                "open_issues": 876,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19219,
+                "stars": 19222,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1347,
+                "stars": 1349,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-02T15:47:28Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-03T10:10:38Z",
+                "open_issues": 224,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6180,
+                "stars": 6186,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -715,7 +715,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 611,
+                "stars": 613,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:31:43.894Z",
+    "last_updated": "2026-09-03T19:28:38.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
