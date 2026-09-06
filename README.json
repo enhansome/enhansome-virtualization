@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 951,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -322,7 +322,7 @@
                 "open_issues": 103,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36554,
+                "stars": 36574,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -353,7 +353,7 @@
                 "open_issues": 154,
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3306,
+                "stars": 3307,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "amd",
                   "driver",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T14:26:59Z",
-                "open_issues": 872,
+                "last_commit": "2026-09-06T12:04:09Z",
+                "open_issues": 870,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19236,
+                "stars": 19238,
                 "topics": [
                   "containers",
                   "docker",
@@ -689,7 +689,7 @@
                 "open_issues": 227,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6190,
+                "stars": 6191,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:36:44.278Z",
+    "last_updated": "2026-09-06T18:40:20.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1974,
+      "stars": 1976,
       "topics": [
         "hypervisor",
         "virtual-machine",
