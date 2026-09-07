@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 457,
+                "stars": 458,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 952,
+                "stars": 953,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -237,7 +237,7 @@
                 "open_issues": 3,
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -258,7 +258,7 @@
                 "open_issues": 2,
                 "owner": "KelvinMsft",
                 "repo": "kHypervisor",
-                "stars": 459,
+                "stars": 462,
                 "topics": [
                   "hyperplatform",
                   "kernel",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T10:41:34Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-07T16:56:41Z",
+                "open_issues": 104,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36574,
+                "stars": 36592,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "amd",
                   "driver",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T12:04:09Z",
-                "open_issues": 870,
+                "last_commit": "2026-09-07T06:23:22Z",
+                "open_issues": 868,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19238,
+                "stars": 19240,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1351,
+                "stars": 1352,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-05T01:16:55Z",
-                "open_issues": 227,
+                "last_commit": "2026-09-07T14:32:33Z",
+                "open_issues": 233,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6191,
+                "stars": 6197,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -753,7 +753,7 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T08:22:02Z",
+                "last_commit": "2026-09-07T05:41:47Z",
                 "open_issues": 60,
                 "owner": "hermit-os",
                 "repo": "uhyve",
@@ -800,7 +800,7 @@
                 "id": 184153266,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-01T21:38:17Z",
+                "last_commit": "2026-09-07T20:10:06Z",
                 "open_issues": 1,
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:40:20.902Z",
+    "last_updated": "2026-09-07T20:11:41.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
