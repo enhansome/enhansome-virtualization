@@ -117,7 +117,7 @@
                 "open_issues": 6,
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3320,
+                "stars": 3321,
                 "topics": [
                   "c",
                   "virtual-machine"
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T17:42:22Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-09T15:25:31Z",
+                "open_issues": 97,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36620,
+                "stars": 36644,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T19:34:32Z",
-                "open_issues": 876,
+                "last_commit": "2026-09-09T19:26:07Z",
+                "open_issues": 874,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19252,
+                "stars": 19261,
                 "topics": [
                   "containers",
                   "docker",
@@ -582,7 +582,7 @@
                 "open_issues": 0,
                 "owner": "intel",
                 "repo": "nemu",
-                "stars": 926,
+                "stars": 925,
                 "topics": [
                   "hardware-acceleration",
                   "qemu",
@@ -608,7 +608,7 @@
                 "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 651,
+                "stars": 652,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-08T18:53:02Z",
-                "open_issues": 232,
+                "last_commit": "2026-09-09T18:58:26Z",
+                "open_issues": 224,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6203,
+                "stars": 6208,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -715,7 +715,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 613,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -753,8 +753,8 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T15:59:04Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-09T13:57:59Z",
+                "open_issues": 56,
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294,
@@ -800,7 +800,7 @@
                 "id": 184153266,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-08T19:03:11Z",
+                "last_commit": "2026-09-09T18:39:44Z",
                 "open_issues": 1,
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:37:21.906Z",
+    "last_updated": "2026-09-09T19:31:28.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1977,
+      "stars": 1976,
       "topics": [
         "hypervisor",
         "virtual-machine",
