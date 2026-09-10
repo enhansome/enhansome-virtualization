@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1515,
+            "stars": 1514,
             "topics": [
               "bareflank",
               "cxx",
@@ -117,7 +117,7 @@
                 "open_issues": 6,
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3321,
+                "stars": 3322,
                 "topics": [
                   "c",
                   "virtual-machine"
@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 953,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T15:25:31Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-10T15:30:08Z",
+                "open_issues": 95,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36644,
+                "stars": 36658,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 629,
+                "stars": 628,
                 "topics": [
                   "amd",
                   "driver",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T19:26:07Z",
-                "open_issues": 874,
+                "last_commit": "2026-09-10T19:17:34Z",
+                "open_issues": 881,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19261,
+                "stars": 19271,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 983,
+                "stars": 982,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-09T18:58:26Z",
-                "open_issues": 224,
+                "last_commit": "2026-09-10T17:35:29Z",
+                "open_issues": 222,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6208,
+                "stars": 6210,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -906,7 +906,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2024-08-15T14:30:25Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
                 "stars": 750,
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:31:28.616Z",
+    "last_updated": "2026-09-10T19:18:39.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
