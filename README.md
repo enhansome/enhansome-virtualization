@@ -102,26 +102,26 @@ A curated list of awesome resources about virtualization.
   * [NOVA](https://github.com/udosteinberg/NOVA) ⭐ 458 | 🐛 1 | 🌐 C++ | 📅 2026-08-28
   * [Xvisor](http://xhypervisor.org/)
 * 2011:
-  * [TinyVM](https://github.com/jakogut/tinyvm) ⭐ 3,322 | 🐛 6 | 🌐 C | 📅 2019-03-23
+  * [TinyVM](https://github.com/jakogut/tinyvm) ⭐ 3,321 | 🐛 6 | 🌐 C | 📅 2019-03-23
   * [ramooflax](https://github.com/airbus-seclab/ramooflax) ⭐ 185 | 🐛 2 | 🌐 C | 📅 2018-02-08
 * 2014: [HOSS](http://www.cs.unc.edu/~porter/hoss/)
 * 2016:
   * [SimpleVisor](https://github.com/ionescu007/SimpleVisor) ⭐ 1,999 | 🐛 11 | 🌐 C | 📅 2024-05-08
   * [HyperPlatform](https://github.com/tandasat/HyperPlatform) ⚠️ Archived
-  * [HyperBone](https://github.com/DarthTon/HyperBone) ⭐ 952 | 🐛 20 | 🌐 C | 📅 2019-10-18
+  * [HyperBone](https://github.com/DarthTon/HyperBone) ⭐ 953 | 🐛 20 | 🌐 C | 📅 2019-10-18
   * [VivienneVMM](https://github.com/changeofpace/VivienneVMM) ⭐ 835 | 🐛 3 | 🌐 C++ | 📅 2020-09-07
   * [kHypervisor](https://github.com/Kelvinhack/kHypervisor) ⭐ 462 | 🐛 2 | 🌐 C++ | 📅 2021-11-29
   * [rustyvisor](https://github.com/iankronquist/rustyvisor) ⭐ 134 | 🐛 8 | 🌐 Rust | 📅 2022-02-12
 * 2017:
-  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,658 | 🐛 95 | 🌐 Rust | 📅 2026-09-10
+  * [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,679 | 🐛 99 | 🌐 Rust | 📅 2026-09-11
   * [Intel HAXM](https://github.com/intel/haxm) ⚠️ Archived
   * [ksm](https://github.com/asamy/ksm) ⭐ 866 | 🐛 13 | 🌐 C | 📅 2021-10-20
-  * [SimpleSvm](https://github.com/tandasat/SimpleSvm) ⭐ 628 | 🐛 0 | 🌐 C++ | 📅 2025-03-03
+  * [SimpleSvm](https://github.com/tandasat/SimpleSvm) ⭐ 629 | 🐛 0 | 🌐 C++ | 📅 2025-03-03
   * [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners) ⭐ 187 | 🐛 0 | 🌐 C | 📅 2017-10-10
   * [crosvm](https://github.com/dgreid/crosvm) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-08-23
   * [GiantVM](https://github.com/GiantVM/homepage) ⭐ 32 | 🐛 2 | 🌐 PostScript | 📅 2025-09-16
 * 2018:
-  * [gvisor](https://github.com/google/gvisor) ⭐ 19,271 | 🐛 881 | 🌐 Go | 📅 2026-09-10
+  * [gvisor](https://github.com/google/gvisor) ⭐ 19,277 | 🐛 886 | 🌐 Go | 📅 2026-09-11
   * [hvpp](https://github.com/wbenny/hvpp) ⭐ 1,353 | 🐛 27 | 🌐 C++ | 📅 2021-03-15
   * [gbhv](https://github.com/Gbps/gbhv) ⭐ 982 | 🐛 12 | 🌐 C | 📅 2023-04-24
   * [nemu](https://github.com/intel/nemu) ⚠️ Archived
@@ -130,7 +130,7 @@ A curated list of awesome resources about virtualization.
   * [boxy](https://github.com/Bareflank/boxy) ⭐ 63 | 🐛 2 | 🌐 C++ | 📅 2020-09-10
   * [ACRN](https://projectacrn.github.io/)
 * 2019:
-  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,210 | 🐛 222 | 🌐 Rust | 📅 2026-09-10
+  * [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,214 | 🐛 220 | 🌐 Rust | 📅 2026-09-11
   * [rust-vmm](https://github.com/rust-vmm/community) ⭐ 612 | 🐛 47 | 📅 2026-07-21
   * [orange\_slice](https://github.com/gamozolabs/orange_slice) ⭐ 550 | 🐛 1 | 🌐 Rust | 📅 2021-03-21
   * [uhyve](https://github.com/hermitcore/uhyve) ⭐ 294 | 🐛 56 | 🌐 Rust | 📅 2026-09-09
@@ -234,7 +234,7 @@ A curated list of awesome resources about virtualization.
 * [Patchguard: Detection of Hypervisor Based Introspection - P1](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p1/)
 * [Patchguard: Detection of Hypervisor Based Introspection - P2](https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p2/)
 * [Reversing with HyperDbg (Dbg3301) - OpenSecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)
-* [VMAware (VM detection library and tool)](https://github.com/kernelwernel/VMAware) ⭐ 1,388 | 🐛 0 | 🌐 C++ | 📅 2026-09-10
+* [VMAware (VM detection library and tool)](https://github.com/kernelwernel/VMAware) ⭐ 1,391 | 🐛 2 | 🌐 C++ | 📅 2026-09-10
 
 ## Attacking Hypervisors
 
@@ -315,4 +315,4 @@ A curated list of awesome resources about virtualization.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
