@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "bareflank",
               "cxx",
@@ -322,7 +322,7 @@
                 "open_issues": 99,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36679,
+                "stars": 36688,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-23T20:39:54Z",
+                "last_commit": "2026-09-12T06:48:44Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T19:15:27Z",
-                "open_issues": 886,
+                "last_commit": "2026-09-12T08:22:15Z",
+                "open_issues": 890,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19277,
+                "stars": 19279,
                 "topics": [
                   "containers",
                   "docker",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 982,
+                "stars": 983,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -608,7 +608,7 @@
                 "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -689,7 +689,7 @@
                 "open_issues": 220,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6214,
+                "stars": 6216,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -800,7 +800,7 @@
                 "id": 184153266,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-09T18:39:44Z",
+                "last_commit": "2026-09-12T17:06:18Z",
                 "open_issues": 1,
                 "owner": "eyalz800",
                 "repo": "zpp_hypervisor",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:19:33.747Z",
+    "last_updated": "2026-09-12T18:49:16.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1976,
+      "stars": 1977,
       "topics": [
         "hypervisor",
         "virtual-machine",
