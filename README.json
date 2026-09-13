@@ -322,7 +322,7 @@
                 "open_issues": 99,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36688,
+                "stars": 36703,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -374,7 +374,7 @@
                 "open_issues": 13,
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 866,
+                "stars": 868,
                 "topics": [
                   "hypervisor",
                   "introspect",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-12T06:48:44Z",
+                "last_commit": "2026-09-13T08:33:13Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T08:22:15Z",
-                "open_issues": 890,
+                "last_commit": "2026-09-13T17:38:48Z",
+                "open_issues": 889,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19279,
+                "stars": 19292,
                 "topics": [
                   "containers",
                   "docker",
@@ -689,7 +689,7 @@
                 "open_issues": 220,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6216,
+                "stars": 6217,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:49:16.836Z",
+    "last_updated": "2026-09-13T19:00:09.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
