@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1966,
+            "stars": 1965,
             "topics": [
               "hypervisor",
               "linux",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 952,
+                "stars": 951,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -319,10 +319,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T17:22:22Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36811,
+                "stars": 36822,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T19:07:49Z",
-                "open_issues": 817,
+                "last_commit": "2026-09-19T06:07:59Z",
+                "open_issues": 814,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19348,
+                "stars": 19351,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-18T16:57:41Z",
-                "open_issues": 226,
+                "last_commit": "2026-09-19T01:16:15Z",
+                "open_issues": 228,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6241,
+                "stars": 6245,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:15:11.927Z",
+    "last_updated": "2026-09-19T19:00:01.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
