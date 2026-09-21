@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "hypervisor",
               "linux",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "bareflank",
               "cxx",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:22:22Z",
-                "open_issues": 100,
+                "last_commit": "2026-09-21T16:56:41Z",
+                "open_issues": 99,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36835,
+                "stars": 36854,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T05:13:21Z",
+                "last_commit": "2026-09-21T02:26:50Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T06:07:59Z",
-                "open_issues": 813,
+                "last_commit": "2026-09-21T20:33:51Z",
+                "open_issues": 808,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19371,
+                "stars": 19382,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1353,
+                "stars": 1355,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -582,7 +582,7 @@
                 "open_issues": 0,
                 "owner": "intel",
                 "repo": "nemu",
-                "stars": 925,
+                "stars": 924,
                 "topics": [
                   "hardware-acceleration",
                   "qemu",
@@ -608,7 +608,7 @@
                 "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-19T01:16:15Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-21T17:22:00Z",
+                "open_issues": 222,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6245,
+                "stars": 6248,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -909,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "hypervisor",
                   "kernel",
@@ -1095,7 +1095,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1396,
+                    "stars": 1397,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1396,
+                    "stars": 1397,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:05:28.661Z",
+    "last_updated": "2026-09-21T20:40:07.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
