@@ -322,7 +322,7 @@
                 "open_issues": 98,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 36954,
+                "stars": 36966,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T19:48:04Z",
-                "open_issues": 844,
+                "last_commit": "2026-09-26T04:45:44Z",
+                "open_issues": 853,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19420,
+                "stars": 19422,
                 "topics": [
                   "containers",
                   "docker",
@@ -604,7 +604,7 @@
                 "id": 154469818,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-20T14:10:56Z",
+                "last_commit": "2026-09-26T11:55:47Z",
                 "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-25T15:27:12Z",
-                "open_issues": 227,
+                "last_commit": "2026-09-26T15:38:50Z",
+                "open_issues": 226,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6259,
+                "stars": 6263,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1069,7 +1069,7 @@
                 "open_issues": 0,
                 "owner": "gerhart01",
                 "repo": "Hyper-V-Internals",
-                "stars": 748,
+                "stars": 749,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:09:26.757Z",
+    "last_updated": "2026-09-26T19:28:12.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
