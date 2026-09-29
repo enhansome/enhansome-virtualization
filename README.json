@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "bareflank",
               "cxx",
@@ -237,7 +237,7 @@
                 "open_issues": 3,
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T17:07:32Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-29T15:46:24Z",
+                "open_issues": 100,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37000,
+                "stars": 37030,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "amd",
                   "driver",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T07:05:06Z",
+                "last_commit": "2026-09-29T06:48:21Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T22:15:49Z",
-                "open_issues": 868,
+                "last_commit": "2026-09-29T20:56:00Z",
+                "open_issues": 863,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19444,
+                "stars": 19455,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-28T16:05:15Z",
-                "open_issues": 234,
+                "last_commit": "2026-09-29T16:43:13Z",
+                "open_issues": 236,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6265,
+                "stars": 6268,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1095,7 +1095,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1395,
+                    "stars": 1396,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1395,
+                    "stars": 1396,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:17:48.124Z",
+    "last_updated": "2026-09-29T21:05:17.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
