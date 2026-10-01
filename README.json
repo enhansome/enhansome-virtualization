@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1968,
+            "stars": 1969,
             "topics": [
               "hypervisor",
               "linux",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "bareflank",
               "cxx",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2003,
+                "stars": 2006,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -190,7 +190,7 @@
                 "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": [
                   "driver",
                   "hypervisor",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T14:11:28Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-01T15:30:10Z",
+                "open_issues": 92,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37074,
+                "stars": 37098,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T18:42:48Z",
+                "last_commit": "2026-09-30T22:15:01Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T20:27:07Z",
-                "open_issues": 874,
+                "last_commit": "2026-10-01T21:21:18Z",
+                "open_issues": 879,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19469,
+                "stars": 19473,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-30T20:20:31Z",
-                "open_issues": 241,
+                "last_commit": "2026-10-01T20:42:14Z",
+                "open_issues": 240,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6270,
+                "stars": 6275,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -715,7 +715,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 612,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -753,8 +753,8 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T16:12:22Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-01T05:19:51Z",
+                "open_issues": 58,
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 294,
@@ -909,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 757,
+                "stars": 758,
                 "topics": [
                   "hypervisor",
                   "kernel",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:03:18.196Z",
+    "last_updated": "2026-10-01T21:25:46.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
