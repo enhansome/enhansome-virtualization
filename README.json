@@ -322,7 +322,7 @@
                 "open_issues": 94,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37120,
+                "stars": 37130,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:09:04Z",
-                "open_issues": 866,
+                "last_commit": "2026-10-03T18:59:37Z",
+                "open_issues": 884,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19483,
+                "stars": 19493,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T23:59:20Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-03T09:44:30Z",
+                "open_issues": 242,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6278,
+                "stars": 6283,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1069,7 +1069,7 @@
                 "open_issues": 0,
                 "owner": "gerhart01",
                 "repo": "Hyper-V-Internals",
-                "stars": 749,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:40.263Z",
+    "last_updated": "2026-10-03T19:32:19.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
