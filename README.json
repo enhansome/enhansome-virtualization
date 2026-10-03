@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "2013: jailhouse",
-          "description": null,
+          "description": "siemens/jailhouse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1970,
+            "stars": 1972,
             "topics": [
               "hypervisor",
               "linux",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "2015: Bareflank",
-          "description": null,
+          "description": "Bareflank/hypervisor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,7 +65,7 @@
             {
               "node_type": "item",
               "title": "NOVA",
-              "description": null,
+              "description": "udosteinberg/NOVA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "TinyVM",
-              "description": null,
+              "description": "jakogut/tinyvm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
             {
               "node_type": "item",
               "title": "ramooflax",
-              "description": null,
+              "description": "airbus-seclab/ramooflax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "SimpleVisor",
-              "description": null,
+              "description": "ionescu007/SimpleVisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -177,7 +177,7 @@
             {
               "node_type": "item",
               "title": "HyperPlatform",
-              "description": null,
+              "description": "tandasat/HyperPlatform",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "HyperBone",
-              "description": null,
+              "description": "DarthTon/HyperBone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
             {
               "node_type": "item",
               "title": "VivienneVMM",
-              "description": null,
+              "description": "changeofpace/VivienneVMM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "kHypervisor",
-              "description": null,
+              "description": "KelvinMsft/kHypervisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -277,7 +277,7 @@
             {
               "node_type": "item",
               "title": "rustyvisor",
-              "description": null,
+              "description": "iankronquist/rustyvisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "Firecracker",
-              "description": null,
+              "description": "firecracker-microvm/firecracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,7 +322,7 @@
                 "open_issues": 94,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37118,
+                "stars": 37120,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "Intel HAXM",
-              "description": null,
+              "description": "intel/haxm",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "ksm",
-              "description": null,
+              "description": "asamy/ksm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "SimpleSvm",
-              "description": null,
+              "description": "tandasat/SimpleSvm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
             {
               "node_type": "item",
               "title": "hypervisor-for-beginners",
-              "description": null,
+              "description": "rohaaan/hypervisor-for-beginners",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -441,7 +441,7 @@
             {
               "node_type": "item",
               "title": "crosvm",
-              "description": null,
+              "description": "dgreid/crosvm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "GiantVM",
-              "description": null,
+              "description": "GiantVM/giantvm.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "gvisor",
-              "description": null,
+              "description": "google/gvisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:57:37Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:04Z",
+                "open_issues": 866,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19477,
+                "stars": 19483,
                 "topics": [
                   "containers",
                   "docker",
@@ -519,7 +519,7 @@
             {
               "node_type": "item",
               "title": "hvpp",
-              "description": null,
+              "description": "wbenny/hvpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -548,7 +548,7 @@
             {
               "node_type": "item",
               "title": "gbhv",
-              "description": null,
+              "description": "Gbps/gbhv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "nemu",
-              "description": null,
+              "description": "intel/nemu",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -595,7 +595,7 @@
             {
               "node_type": "item",
               "title": "NoirVisor",
-              "description": null,
+              "description": "Zero-Tang/NoirVisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,7 +627,7 @@
             {
               "node_type": "item",
               "title": "applepie",
-              "description": null,
+              "description": "gamozolabs/applepie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "boxy",
-              "description": null,
+              "description": "Bareflank/boxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "cloud-hypervisor",
-              "description": null,
+              "description": "cloud-hypervisor/cloud-hypervisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,8 +685,8 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T20:16:57Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-02T23:59:20Z",
+                "open_issues": 243,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
                 "stars": 6278,
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "rust-vmm",
-              "description": null,
+              "description": "rust-vmm/community",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -723,7 +723,7 @@
             {
               "node_type": "item",
               "title": "orange_slice",
-              "description": null,
+              "description": "gamozolabs/orange_slice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,7 +744,7 @@
             {
               "node_type": "item",
               "title": "uhyve",
-              "description": null,
+              "description": "hermit-os/uhyve",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
             {
               "node_type": "item",
               "title": "MemoryRanger",
-              "description": null,
+              "description": "IgorKorkin/MemoryRanger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -791,7 +791,7 @@
             {
               "node_type": "item",
               "title": "zpp_hypervisor",
-              "description": null,
+              "description": "eyalz800/zpp_hypervisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -814,7 +814,7 @@
             {
               "node_type": "item",
               "title": "ZeldaOS.x86_64",
-              "description": null,
+              "description": "chillancezen/ZeldaOS.x86_64",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -842,7 +842,7 @@
             {
               "node_type": "item",
               "title": "vbh",
-              "description": null,
+              "description": "intel/vbh",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -863,7 +863,7 @@
             {
               "node_type": "item",
               "title": "mythril",
-              "description": null,
+              "description": "mythril-hypervisor/mythril",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -896,7 +896,7 @@
             {
               "node_type": "item",
               "title": "MiniVisorPkg",
-              "description": null,
+              "description": "tandasat/MiniVisorPkg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -922,7 +922,7 @@
             {
               "node_type": "item",
               "title": "MicroV",
-              "description": null,
+              "description": "Bareflank/MicroV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -943,7 +943,7 @@
             {
               "node_type": "item",
               "title": "barbervisor",
-              "description": null,
+              "description": "Cisco-Talos/Barbervisor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,7 +964,7 @@
             {
               "node_type": "item",
               "title": "Hedron",
-              "description": null,
+              "description": "cyberus-technology/hedron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,7 +985,7 @@
             {
               "node_type": "item",
               "title": "Zelda.RISCV",
-              "description": null,
+              "description": "chillancezen/Zelda.RISCV.Emulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "QEMU Starter (a beginners guide)",
-              "description": null,
+              "description": "TunaCici/QEMU_Starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "Hyper-V internals researches (2006-2019)",
-              "description": null,
+              "description": "gerhart01/Hyper-V-Internals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1082,7 +1082,7 @@
                 {
                   "node_type": "item",
                   "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
-                  "description": null,
+                  "description": "microsoft/MSRC-Security-Research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1118,7 +1118,7 @@
             {
               "node_type": "item",
               "title": "Awesome Hyper-V Exploitation",
-              "description": null,
+              "description": "shogunlab/awesome-hyper-v-exploitation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,7 +1146,7 @@
                 {
                   "node_type": "item",
                   "title": "A Dive in to Hyper-V Architecture & Vulnerabilities",
-                  "description": null,
+                  "description": "microsoft/MSRC-Security-Research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:03:28.760Z",
+    "last_updated": "2026-10-03T05:15:40.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
