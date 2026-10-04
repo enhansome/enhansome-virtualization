@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -322,7 +322,7 @@
                 "open_issues": 94,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37130,
+                "stars": 37149,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T18:59:37Z",
-                "open_issues": 884,
+                "last_commit": "2026-10-04T18:50:10Z",
+                "open_issues": 866,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19493,
+                "stars": 19519,
                 "topics": [
                   "containers",
                   "docker",
@@ -604,8 +604,8 @@
                 "id": 154469818,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-28T13:18:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-04T11:24:24Z",
+                "open_issues": 3,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
                 "stars": 656,
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-03T09:44:30Z",
-                "open_issues": 242,
+                "last_commit": "2026-10-04T18:48:56Z",
+                "open_issues": 246,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6283,
+                "stars": 6286,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -935,7 +935,7 @@
                 "open_issues": 15,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1095,7 +1095,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1396,
+                    "stars": 1397,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1396,
+                    "stars": 1397,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:32:19.660Z",
+    "last_updated": "2026-10-04T19:49:27.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
