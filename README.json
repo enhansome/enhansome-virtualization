@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1972,
+            "stars": 1973,
             "topics": [
               "hypervisor",
               "linux",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -237,7 +237,7 @@
                 "open_issues": 3,
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 835,
+                "stars": 836,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:45:21Z",
+                "last_commit": "2026-10-05T17:03:39Z",
                 "open_issues": 94,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37149,
+                "stars": 37179,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -353,7 +353,7 @@
                 "open_issues": 154,
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3307,
+                "stars": 3306,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -475,7 +475,7 @@
                 "open_issues": 2,
                 "owner": "GiantVM",
                 "repo": "giantvm.github.io",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T18:50:10Z",
-                "open_issues": 866,
+                "last_commit": "2026-10-05T22:50:54Z",
+                "open_issues": 870,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19519,
+                "stars": 19553,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1355,
+                "stars": 1356,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-04T18:48:56Z",
+                "last_commit": "2026-10-05T20:52:06Z",
                 "open_issues": 246,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6286,
+                "stars": 6291,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -753,11 +753,11 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T05:19:51Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-05T17:16:37Z",
+                "open_issues": 59,
                 "owner": "hermit-os",
                 "repo": "uhyve",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "hermit",
                   "hypervisor",
@@ -1069,7 +1069,7 @@
                 "open_issues": 0,
                 "owner": "gerhart01",
                 "repo": "Hyper-V-Internals",
-                "stars": 750,
+                "stars": 749,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:49:27.069Z",
+    "last_updated": "2026-10-05T22:56:29.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
