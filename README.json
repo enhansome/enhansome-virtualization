@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:16:44Z",
+                "last_commit": "2026-10-06T13:07:02Z",
                 "open_issues": 95,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37186,
+                "stars": 37190,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T07:40:35Z",
+                "last_commit": "2026-10-06T11:40:22Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:58:27Z",
-                "open_issues": 877,
+                "last_commit": "2026-10-06T21:16:42Z",
+                "open_issues": 897,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19563,
+                "stars": 19567,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-06T08:07:07Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-06T17:36:43Z",
+                "open_issues": 252,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6294,
+                "stars": 6296,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -977,7 +977,7 @@
                 "open_issues": 0,
                 "owner": "cyberus-technology",
                 "repo": "hedron",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:58:52.540Z",
+    "last_updated": "2026-10-06T21:18:03.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
