@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 951,
+                "stars": 950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:03:39Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-06T02:16:44Z",
+                "open_issues": 95,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37179,
+                "stars": 37186,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T22:15:01Z",
+                "last_commit": "2026-10-06T07:40:35Z",
                 "open_issues": 0,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:50:54Z",
-                "open_issues": 870,
+                "last_commit": "2026-10-06T10:58:27Z",
+                "open_issues": 877,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19553,
+                "stars": 19563,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -608,7 +608,7 @@
                 "open_issues": 3,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-05T20:52:06Z",
-                "open_issues": 246,
+                "last_commit": "2026-10-06T08:07:07Z",
+                "open_issues": 248,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6291,
+                "stars": 6294,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -753,8 +753,8 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:16:37Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-06T06:01:19Z",
+                "open_issues": 57,
                 "owner": "hermit-os",
                 "repo": "uhyve",
                 "stars": 295,
@@ -935,7 +935,7 @@
                 "open_issues": 15,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:56:29.839Z",
+    "last_updated": "2026-10-06T10:58:52.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1978,
+      "stars": 1979,
       "topics": [
         "hypervisor",
         "virtual-machine",
