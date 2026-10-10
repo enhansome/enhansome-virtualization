@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1970,
+            "stars": 1971,
             "topics": [
               "hypervisor",
               "linux",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2008,
+                "stars": 2010,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -237,7 +237,7 @@
                 "open_issues": 3,
                 "owner": "changeofpace",
                 "repo": "VivienneVMM",
-                "stars": 836,
+                "stars": 837,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -319,10 +319,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T13:46:25Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37264,
+                "stars": 37282,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "amd",
                   "driver",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T05:28:27Z",
+                "last_commit": "2026-10-10T06:48:19Z",
                 "open_issues": 1,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T21:20:07Z",
-                "open_issues": 940,
+                "last_commit": "2026-10-10T10:33:20Z",
+                "open_issues": 927,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19616,
+                "stars": 19624,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 983,
+                "stars": 984,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-09T19:28:10Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-10T14:23:46Z",
+                "open_issues": 239,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6305,
+                "stars": 6311,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -753,7 +753,7 @@
                 "id": 140960389,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:01:19Z",
+                "last_commit": "2026-10-10T12:02:08Z",
                 "open_issues": 57,
                 "owner": "hermit-os",
                 "repo": "uhyve",
@@ -783,7 +783,7 @@
                 "open_issues": 0,
                 "owner": "IgorKorkin",
                 "repo": "MemoryRanger",
-                "stars": 244,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1131,7 +1131,7 @@
                 "open_issues": 0,
                 "owner": "shogunlab",
                 "repo": "awesome-hyper-v-exploitation",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "hyper-v"
                 ]
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:20:44.225Z",
+    "last_updated": "2026-10-10T20:20:28.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
