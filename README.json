@@ -117,7 +117,7 @@
                 "open_issues": 6,
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3323,
+                "stars": 3324,
                 "topics": [
                   "c",
                   "virtual-machine"
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2010,
+                "stars": 2011,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -319,10 +319,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T13:46:25Z",
-                "open_issues": 95,
+                "open_issues": 98,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37292,
+                "stars": 37322,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T12:56:54Z",
+                "last_commit": "2026-10-12T23:16:56Z",
                 "open_issues": 945,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19638,
+                "stars": 19655,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-10T14:23:46Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-12T22:36:29Z",
+                "open_issues": 242,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6318,
+                "stars": 6322,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -736,7 +736,7 @@
                 "open_issues": 1,
                 "owner": "gamozolabs",
                 "repo": "orange_slice",
-                "stars": 550,
+                "stars": 549,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -909,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "hypervisor",
                   "kernel",
@@ -935,7 +935,7 @@
                 "open_issues": 15,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -977,7 +977,7 @@
                 "open_issues": 0,
                 "owner": "cyberus-technology",
                 "repo": "hedron",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 3,
                 "owner": "TunaCici",
                 "repo": "QEMU_Starter",
-                "stars": 118,
+                "stars": 117,
                 "topics": [
                   "emulation",
                   "qemu",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:38:18.533Z",
+    "last_updated": "2026-10-12T23:16:58.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
