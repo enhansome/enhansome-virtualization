@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T17:18:11Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-16T15:32:41Z",
+                "open_issues": 111,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37406,
+                "stars": 37432,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:55:09Z",
-                "open_issues": 960,
+                "last_commit": "2026-10-16T19:39:41Z",
+                "open_issues": 945,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19686,
+                "stars": 19697,
                 "topics": [
                   "containers",
                   "docker",
@@ -608,7 +608,7 @@
                 "open_issues": 3,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 657,
+                "stars": 656,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-15T19:26:52Z",
-                "open_issues": 241,
+                "last_commit": "2026-10-16T17:52:59Z",
+                "open_issues": 237,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6360,
+                "stars": 6370,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -909,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 761,
+                "stars": 762,
                 "topics": [
                   "hypervisor",
                   "kernel",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:04:19.944Z",
+    "last_updated": "2026-10-16T19:44:09.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
