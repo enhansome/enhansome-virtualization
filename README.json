@@ -319,10 +319,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T15:32:41Z",
-                "open_issues": 111,
+                "open_issues": 114,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37432,
+                "stars": 37451,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -374,7 +374,7 @@
                 "open_issues": 13,
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 869,
+                "stars": 868,
                 "topics": [
                   "hypervisor",
                   "introspect",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T19:39:41Z",
-                "open_issues": 945,
+                "last_commit": "2026-10-17T12:22:29Z",
+                "open_issues": 943,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19697,
+                "stars": 19699,
                 "topics": [
                   "containers",
                   "docker",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-16T17:52:59Z",
-                "open_issues": 237,
+                "last_commit": "2026-10-17T13:23:31Z",
+                "open_issues": 230,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6370,
+                "stars": 6386,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -757,7 +757,7 @@
                 "open_issues": 58,
                 "owner": "hermit-os",
                 "repo": "uhyve",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "hermit",
                   "hypervisor",
@@ -977,7 +977,7 @@
                 "open_issues": 0,
                 "owner": "cyberus-technology",
                 "repo": "hedron",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:44:09.403Z",
+    "last_updated": "2026-10-17T18:53:06.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 9,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1984,
+      "stars": 1985,
       "topics": [
         "hypervisor",
         "virtual-machine",
