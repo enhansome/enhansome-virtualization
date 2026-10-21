@@ -216,7 +216,7 @@
                 "open_issues": 20,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 951,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T18:48:01Z",
+                "last_commit": "2026-10-21T15:01:16Z",
                 "open_issues": 126,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37513,
+                "stars": 37537,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T20:08:44Z",
-                "open_issues": 990,
+                "last_commit": "2026-10-21T20:22:34Z",
+                "open_issues": 999,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19727,
+                "stars": 19738,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1358,
+                "stars": 1359,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-20T15:54:47Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-21T12:47:32Z",
+                "open_issues": 240,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6405,
+                "stars": 6408,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1095,7 +1095,7 @@
                     "open_issues": 12,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1399,
+                    "stars": 1400,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 12,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1399,
+                    "stars": 1400,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:10:02.759Z",
+    "last_updated": "2026-10-21T20:23:14.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1185,7 +1185,7 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-08-21T08:55:44Z",
-      "open_issues": 9,
+      "open_issues": 8,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
       "stars": 1985,
