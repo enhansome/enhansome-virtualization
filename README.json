@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1974,
+            "stars": 1975,
             "topics": [
               "hypervisor",
               "linux",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "bareflank",
               "cxx",
@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2013,
+                "stars": 2015,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T15:01:16Z",
-                "open_issues": 126,
+                "last_commit": "2026-10-22T16:27:07Z",
+                "open_issues": 125,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37537,
+                "stars": 37555,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -374,7 +374,7 @@
                 "open_issues": 13,
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 868,
+                "stars": 870,
                 "topics": [
                   "hypervisor",
                   "introspect",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T20:22:34Z",
-                "open_issues": 999,
+                "last_commit": "2026-10-22T20:15:49Z",
+                "open_issues": 1011,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19738,
+                "stars": 19750,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 985,
+                "stars": 986,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -599,13 +599,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The Grimoire Hypervisor solution for x86 Processors with experimental nested virtualization support. Remastering with Rust in progress.",
+                "description": "The Grimoire Hypervisor solution written in Rust for x86 Processors.",
                 "homepage": null,
                 "id": 154469818,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-10-18T06:38:48Z",
-                "open_issues": 3,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-22T14:22:54Z",
+                "open_issues": 1,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
                 "stars": 657,
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-21T12:47:32Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-22T10:35:10Z",
+                "open_issues": 244,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6408,
+                "stars": 6415,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1095,7 +1095,7 @@
                     "open_issues": 12,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1400,
+                    "stars": 1398,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 12,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1400,
+                    "stars": 1398,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:23:14.007Z",
+    "last_updated": "2026-10-22T20:19:57.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1188,7 +1188,7 @@
       "open_issues": 8,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
-      "stars": 1985,
+      "stars": 1984,
       "topics": [
         "hypervisor",
         "virtual-machine",
