@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -117,7 +117,7 @@
                 "open_issues": 6,
                 "owner": "jakogut",
                 "repo": "tinyvm",
-                "stars": 3326,
+                "stars": 3327,
                 "topics": [
                   "c",
                   "virtual-machine"
@@ -290,7 +290,7 @@
                 "open_issues": 8,
                 "owner": "iankronquist",
                 "repo": "rustyvisor",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "hypervisors",
                   "linux-kernel",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T14:44:35Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-24T00:01:31Z",
+                "open_issues": 133,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37584,
+                "stars": 37592,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -450,7 +450,7 @@
                 "id": 91861610,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T02:08:27Z",
+                "last_commit": "2026-10-24T07:25:05Z",
                 "open_issues": 1,
                 "owner": "dgreid",
                 "repo": "crosvm",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T20:05:30Z",
-                "open_issues": 1023,
+                "last_commit": "2026-10-24T18:28:05Z",
+                "open_issues": 1042,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19763,
+                "stars": 19765,
                 "topics": [
                   "containers",
                   "docker",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 986,
+                "stars": 987,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -604,7 +604,7 @@
                 "id": 154469818,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T09:08:05Z",
+                "last_commit": "2026-10-24T04:33:49Z",
                 "open_issues": 1,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-23T19:35:20Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-24T17:22:53Z",
+                "open_issues": 194,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6420,
+                "stars": 6424,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:07:27.146Z",
+    "last_updated": "2026-10-24T19:05:04.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
