@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "Bareflank",
             "repo": "hypervisor",
-            "stars": 1521,
+            "stars": 1522,
             "topics": [
               "bareflank",
               "cxx",
@@ -169,7 +169,7 @@
                 "open_issues": 12,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2018,
+                "stars": 2017,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -190,7 +190,7 @@
                 "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1764,
+                "stars": 1763,
                 "topics": [
                   "driver",
                   "hypervisor",
@@ -318,11 +318,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T18:34:21Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-05T17:57:57Z",
+                "open_issues": 137,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37824,
+                "stars": 37847,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T22:06:07Z",
-                "open_issues": 1078,
+                "last_commit": "2026-11-05T22:20:40Z",
+                "open_issues": 1053,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19868,
+                "stars": 19878,
                 "topics": [
                   "containers",
                   "docker",
@@ -608,7 +608,7 @@
                 "open_issues": 1,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-04T22:15:15Z",
-                "open_issues": 201,
+                "last_commit": "2026-11-05T20:33:10Z",
+                "open_issues": 213,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6462,
+                "stars": 6467,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -715,7 +715,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:15:37.749Z",
+    "last_updated": "2026-11-05T22:24:09.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
