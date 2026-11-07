@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "siemens",
             "repo": "jailhouse",
-            "stars": 1977,
+            "stars": 1978,
             "topics": [
               "hypervisor",
               "linux",
@@ -78,7 +78,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 471,
+                "stars": 479,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -169,7 +169,7 @@
                 "open_issues": 12,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2017,
+                "stars": 2018,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -216,7 +216,7 @@
                 "open_issues": 19,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 952,
+                "stars": 951,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -322,7 +322,7 @@
                 "open_issues": 139,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37870,
+                "stars": 37894,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -353,7 +353,7 @@
                 "open_issues": 154,
                 "owner": "intel",
                 "repo": "haxm",
-                "stars": 3305,
+                "stars": 3304,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T21:41:59Z",
-                "open_issues": 1096,
+                "last_commit": "2026-11-07T20:20:38Z",
+                "open_issues": 1126,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19893,
+                "stars": 19910,
                 "topics": [
                   "containers",
                   "docker",
@@ -561,7 +561,7 @@
                 "open_issues": 12,
                 "owner": "Gbps",
                 "repo": "gbhv",
-                "stars": 999,
+                "stars": 1000,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -608,7 +608,7 @@
                 "open_issues": 1,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-06T19:45:53Z",
-                "open_issues": 206,
+                "last_commit": "2026-11-07T20:15:03Z",
+                "open_issues": 200,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6477,
+                "stars": 6483,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -715,7 +715,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -977,7 +977,7 @@
                 "open_issues": 0,
                 "owner": "cyberus-technology",
                 "repo": "hedron",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:47:06.715Z",
+    "last_updated": "2026-11-07T20:33:56.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
