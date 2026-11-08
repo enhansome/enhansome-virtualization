@@ -169,7 +169,7 @@
                 "open_issues": 12,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2018,
+                "stars": 2017,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -190,7 +190,7 @@
                 "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1762,
+                "stars": 1761,
                 "topics": [
                   "driver",
                   "hypervisor",
@@ -216,7 +216,7 @@
                 "open_issues": 19,
                 "owner": "DarthTon",
                 "repo": "HyperBone",
-                "stars": 951,
+                "stars": 950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -319,10 +319,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T19:33:38Z",
-                "open_issues": 139,
+                "open_issues": 141,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 37894,
+                "stars": 37903,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -405,7 +405,7 @@
                 "open_issues": 0,
                 "owner": "tandasat",
                 "repo": "SimpleSvm",
-                "stars": 641,
+                "stars": 640,
                 "topics": [
                   "amd",
                   "driver",
@@ -499,11 +499,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T20:20:38Z",
-                "open_issues": 1126,
+                "last_commit": "2026-11-08T15:01:06Z",
+                "open_issues": 1141,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19910,
+                "stars": 19923,
                 "topics": [
                   "containers",
                   "docker",
@@ -532,7 +532,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1370,
+                "stars": 1369,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -604,11 +604,11 @@
                 "id": 154469818,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T18:02:29Z",
+                "last_commit": "2026-11-08T06:20:37Z",
                 "open_issues": 1,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 664,
+                "stars": 663,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -685,11 +685,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-07T20:15:03Z",
-                "open_issues": 200,
+                "last_commit": "2026-11-08T20:38:47Z",
+                "open_issues": 198,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6483,
+                "stars": 6488,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -909,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "tandasat",
                 "repo": "MiniVisorPkg",
-                "stars": 765,
+                "stars": 764,
                 "topics": [
                   "hypervisor",
                   "kernel",
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:33:56.855Z",
+    "last_updated": "2026-11-08T20:47:51.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
