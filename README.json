@@ -17,11 +17,11 @@
                 "id": 80689539,
                 "language": "TeX",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-18T03:07:06Z",
-                "open_issues": 197,
+                "last_commit": "2026-11-19T23:11:03Z",
+                "open_issues": 199,
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
-                "stars": 4897,
+                "stars": 4898,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -70,7 +70,7 @@
                 "open_issues": 65,
                 "owner": "oasis-tcs",
                 "repo": "virtio-spec",
-                "stars": 309,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -203,7 +203,7 @@
                 "open_issues": 12,
                 "owner": "ionescu007",
                 "repo": "SimpleVisor",
-                "stars": 2023,
+                "stars": 2022,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -224,7 +224,7 @@
                 "open_issues": 17,
                 "owner": "tandasat",
                 "repo": "HyperPlatform",
-                "stars": 1761,
+                "stars": 1760,
                 "topics": [
                   "driver",
                   "hypervisor",
@@ -250,7 +250,7 @@
                 "open_issues": 27,
                 "owner": "wbenny",
                 "repo": "hvpp",
-                "stars": 1377,
+                "stars": 1376,
                 "topics": [
                   "ept",
                   "hypervisor",
@@ -321,7 +321,7 @@
                 "open_issues": 12,
                 "owner": "asamy",
                 "repo": "ksm",
-                "stars": 870,
+                "stars": 869,
                 "topics": [
                   "hypervisor",
                   "introspect",
@@ -374,11 +374,11 @@
                 "id": 154469818,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T14:25:23Z",
+                "last_commit": "2026-11-19T18:35:54Z",
                 "open_issues": 2,
                 "owner": "Zero-Tang",
                 "repo": "NoirVisor",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "amd-v",
                   "hypervisor",
@@ -470,7 +470,7 @@
                 "open_issues": 0,
                 "owner": "memN0ps",
                 "repo": "illusion-rs",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "blue-pill",
                   "bootkit",
@@ -503,7 +503,7 @@
                 "open_issues": 0,
                 "owner": "memN0ps",
                 "repo": "matrix-rs",
-                "stars": 362,
+                "stars": 360,
                 "topics": [
                   "blue-pill",
                   "hypervisor",
@@ -604,7 +604,7 @@
                 "open_issues": 50,
                 "owner": "mythril-hypervisor",
                 "repo": "mythril",
-                "stars": 55,
+                "stars": 54,
                 "topics": [
                   "hypervisor",
                   "intel",
@@ -679,7 +679,7 @@
                 "open_issues": 16,
                 "owner": "gamozolabs",
                 "repo": "applepie",
-                "stars": 386,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -787,11 +787,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T16:44:30Z",
-                "open_issues": 149,
+                "last_commit": "2026-11-19T18:53:54Z",
+                "open_issues": 151,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 38100,
+                "stars": 38123,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -818,11 +818,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-18T22:23:53Z",
-                "open_issues": 192,
+                "last_commit": "2026-11-19T22:50:20Z",
+                "open_issues": 193,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6540,
+                "stars": 6543,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -869,7 +869,7 @@
                 "open_issues": 0,
                 "owner": "siemens",
                 "repo": "jailhouse",
-                "stars": 1979,
+                "stars": 1980,
                 "topics": [
                   "hypervisor",
                   "linux",
@@ -890,11 +890,11 @@
                 "id": 765938063,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:20:09Z",
-                "open_issues": 385,
+                "last_commit": "2026-11-19T23:13:33Z",
+                "open_issues": 388,
                 "owner": "microsoft",
                 "repo": "openvmm",
-                "stars": 1974,
+                "stars": 1976,
                 "topics": [
                   "confidential-computing",
                   "rust",
@@ -919,7 +919,7 @@
                 "open_issues": 8,
                 "owner": "Bareflank",
                 "repo": "hypervisor",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": [
                   "bareflank",
                   "cxx",
@@ -944,11 +944,11 @@
                 "id": 405863130,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T21:24:27Z",
+                "last_commit": "2026-11-19T21:49:20Z",
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "crosvm",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "intel",
                 "repo": "nemu",
-                "stars": 924,
+                "stars": 923,
                 "topics": [
                   "hardware-acceleration",
                   "qemu",
@@ -1037,7 +1037,7 @@
                 "open_issues": 47,
                 "owner": "rust-vmm",
                 "repo": "community",
-                "stars": 619,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1054,11 +1054,11 @@
                 "id": 233099706,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T15:51:23Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-19T14:58:11Z",
+                "open_issues": 48,
                 "owner": "bao-project",
                 "repo": "bao-hypervisor",
-                "stars": 596,
+                "stars": 595,
                 "topics": [
                   "arm",
                   "armv8",
@@ -1098,7 +1098,7 @@
                 "open_issues": 1,
                 "owner": "udosteinberg",
                 "repo": "NOVA",
-                "stars": 483,
+                "stars": 481,
                 "topics": [
                   "aarch64",
                   "cplusplus",
@@ -1290,11 +1290,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T23:06:12Z",
-                "open_issues": 1198,
+                "last_commit": "2026-11-19T20:57:47Z",
+                "open_issues": 1184,
                 "owner": "gvisor",
                 "repo": "gvisor",
-                "stars": 20048,
+                "stars": 20059,
                 "topics": [
                   "containers",
                   "docker",
@@ -1319,11 +1319,11 @@
                 "id": 113404957,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T21:55:47Z",
-                "open_issues": 1217,
+                "last_commit": "2026-11-19T22:48:38Z",
+                "open_issues": 1224,
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 9175,
+                "stars": 9184,
                 "topics": [
                   "containers",
                   "cri",
@@ -1354,11 +1354,11 @@
                 "id": 287326438,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T16:13:47Z",
-                "open_issues": 135,
+                "last_commit": "2026-11-19T15:46:44Z",
+                "open_issues": 134,
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2929,
+                "stars": 2930,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1376,7 +1376,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T14:58:55Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "stacklok",
                 "repo": "go-microvm",
                 "stars": 35,
@@ -1413,7 +1413,7 @@
                 "open_issues": 38,
                 "owner": "HyperDbg",
                 "repo": "HyperDbg",
-                "stars": 4214,
+                "stars": 4216,
                 "topics": [
                   "anti-debug",
                   "anti-debugging",
@@ -1476,7 +1476,7 @@
                 "open_issues": 1,
                 "owner": "bitdefender",
                 "repo": "hvmi",
-                "stars": 688,
+                "stars": 687,
                 "topics": [
                   "exploit",
                   "hypervisor",
@@ -1579,7 +1579,7 @@
                     "open_issues": 13,
                     "owner": "microsoft",
                     "repo": "MSRC-Security-Research",
-                    "stars": 1398,
+                    "stars": 1396,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1612,7 +1612,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "MSRC-Security-Research",
-                "stars": 1398,
+                "stars": 1396,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1633,7 +1633,7 @@
                 "open_issues": 53,
                 "owner": "IntelLabs",
                 "repo": "kAFL",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "firmware",
                   "fuzzing",
@@ -1712,7 +1712,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-16T08:48:25Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "coconut-svsm",
                 "repo": "svsm",
                 "stars": 250,
@@ -1743,7 +1743,7 @@
                 "open_issues": 42,
                 "owner": "ayoubfaouzi",
                 "repo": "al-khaser",
-                "stars": 7188,
+                "stars": 7190,
                 "topics": [
                   "anti-analysis",
                   "anti-debugging",
@@ -1861,7 +1861,7 @@
             "open_issues": 0,
             "owner": "winmin",
             "repo": "awesome-vm-escape",
-            "stars": 621,
+            "stars": 620,
             "topics": [
               "awesome",
               "exploit",
@@ -1886,10 +1886,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-12T19:55:27Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "restyler",
             "repo": "awesome-sandbox",
-            "stars": 617,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1910,7 +1910,7 @@
             "open_issues": 0,
             "owner": "shogunlab",
             "repo": "awesome-hyper-v-exploitation",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "hyper-v"
             ]
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:09:59.361Z",
+    "last_updated": "2026-11-19T23:16:27.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
