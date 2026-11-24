@@ -17,11 +17,11 @@
                 "id": 80689539,
                 "language": "TeX",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-21T01:29:00Z",
-                "open_issues": 198,
+                "last_commit": "2026-11-24T00:45:49Z",
+                "open_issues": 204,
                 "owner": "riscv",
                 "repo": "riscv-isa-manual",
-                "stars": 4900,
+                "stars": 4899,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "ayoubfaouzi",
                 "repo": "cpu-internals",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": [
                   "ept",
                   "hardware-virtualization",
@@ -70,7 +70,7 @@
                 "open_issues": 65,
                 "owner": "oasis-tcs",
                 "repo": "virtio-spec",
-                "stars": 306,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -535,7 +535,7 @@
                 "open_issues": 0,
                 "owner": "rohaaan",
                 "repo": "hypervisor-for-beginners",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -787,11 +787,11 @@
                 "id": 107505869,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T19:44:52Z",
-                "open_issues": 158,
+                "last_commit": "2026-11-23T16:57:25Z",
+                "open_issues": 162,
                 "owner": "firecracker-microvm",
                 "repo": "firecracker",
-                "stars": 38169,
+                "stars": 38192,
                 "topics": [
                   "containers",
                   "minimalist",
@@ -818,11 +818,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-21T14:53:12Z",
+                "last_commit": "2026-11-23T23:16:13Z",
                 "open_issues": 198,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6561,
+                "stars": 6569,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -855,6 +855,31 @@
             },
             {
               "node_type": "item",
+              "title": "OpenVMM",
+              "description": "Microsoft, 2024. Rust VMM that also runs as OpenHCL, the paravisor used for Azure confidential VMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Home of OpenVMM and OpenHCL",
+                "homepage": "http://openvmm.dev/",
+                "id": 765938063,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-11-24T02:55:52Z",
+                "open_issues": 406,
+                "owner": "microsoft",
+                "repo": "openvmm",
+                "stars": 1980,
+                "topics": [
+                  "confidential-computing",
+                  "rust",
+                  "vmm"
+                ]
+              },
+              "first_seen": "2026-11-13T22:15:12.734Z"
+            },
+            {
+              "node_type": "item",
               "title": "Jailhouse",
               "description": "Siemens, 2013. Linux-based static partitioning hypervisor. No commits since 2024.",
               "children": [],
@@ -869,7 +894,7 @@
                 "open_issues": 0,
                 "owner": "siemens",
                 "repo": "jailhouse",
-                "stars": 1980,
+                "stars": 1979,
                 "topics": [
                   "hypervisor",
                   "linux",
@@ -877,31 +902,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenVMM",
-              "description": "Microsoft, 2024. Rust VMM that also runs as OpenHCL, the paravisor used for Azure confidential VMs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Home of OpenVMM and OpenHCL",
-                "homepage": "http://openvmm.dev/",
-                "id": 765938063,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-11-22T19:25:58Z",
-                "open_issues": 392,
-                "owner": "microsoft",
-                "repo": "openvmm",
-                "stars": 1978,
-                "topics": [
-                  "confidential-computing",
-                  "rust",
-                  "vmm"
-                ]
-              },
-              "first_seen": "2026-11-13T22:15:12.734Z"
             },
             {
               "node_type": "item",
@@ -944,7 +944,7 @@
                 "id": 405863130,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-22T03:26:05Z",
+                "last_commit": "2026-11-24T01:10:08Z",
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "crosvm",
@@ -969,7 +969,7 @@
                 "open_issues": 357,
                 "owner": "projectacrn",
                 "repo": "acrn-hypervisor",
-                "stars": 1298,
+                "stars": 1300,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 47,
                 "owner": "xvisor",
                 "repo": "xvisor",
-                "stars": 629,
+                "stars": 628,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1055,10 +1055,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T14:58:11Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "bao-project",
                 "repo": "bao-hypervisor",
-                "stars": 596,
+                "stars": 597,
                 "topics": [
                   "arm",
                   "armv8",
@@ -1130,7 +1130,7 @@
                 "open_issues": 50,
                 "owner": "hermit-os",
                 "repo": "uhyve",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "hermit",
                   "hypervisor",
@@ -1182,7 +1182,7 @@
                 "open_issues": 16,
                 "owner": "Bareflank",
                 "repo": "MicroV",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:06.092Z"
@@ -1290,11 +1290,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T08:14:18Z",
-                "open_issues": 1171,
+                "last_commit": "2026-11-24T02:16:27Z",
+                "open_issues": 1162,
                 "owner": "gvisor",
                 "repo": "gvisor",
-                "stars": 20084,
+                "stars": 20099,
                 "topics": [
                   "containers",
                   "docker",
@@ -1319,11 +1319,11 @@
                 "id": 113404957,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T22:22:17Z",
-                "open_issues": 1230,
+                "last_commit": "2026-11-23T18:55:28Z",
+                "open_issues": 1248,
                 "owner": "kata-containers",
                 "repo": "kata-containers",
-                "stars": 9202,
+                "stars": 9206,
                 "topics": [
                   "containers",
                   "cri",
@@ -1354,11 +1354,11 @@
                 "id": 287326438,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T17:02:07Z",
-                "open_issues": 138,
+                "last_commit": "2026-11-23T17:16:16Z",
+                "open_issues": 136,
                 "owner": "libkrun",
                 "repo": "libkrun",
-                "stars": 2946,
+                "stars": 2952,
                 "topics": []
               },
               "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1413,7 +1413,7 @@
                 "open_issues": 38,
                 "owner": "HyperDbg",
                 "repo": "HyperDbg",
-                "stars": 4224,
+                "stars": 4228,
                 "topics": [
                   "anti-debug",
                   "anti-debugging",
@@ -1711,7 +1711,7 @@
                 "id": 613277492,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-16T08:48:25Z",
+                "last_commit": "2026-11-23T15:40:25Z",
                 "open_issues": 60,
                 "owner": "coconut-svsm",
                 "repo": "svsm",
@@ -1776,7 +1776,7 @@
                 "open_issues": 0,
                 "owner": "NotRequiem",
                 "repo": "VMAware",
-                "stars": 1519,
+                "stars": 1522,
                 "topics": [
                   "anti",
                   "anti-vm",
@@ -1886,10 +1886,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-12T19:55:27Z",
-            "open_issues": 26,
+            "open_issues": 28,
             "owner": "restyler",
             "repo": "awesome-sandbox",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-11-13T22:15:12.734Z"
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:09:41.987Z",
+    "last_updated": "2026-11-24T03:04:09.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of resources about Virtualization",
@@ -1952,7 +1952,7 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-11-13T01:40:32Z",
-      "open_issues": 6,
+      "open_issues": 8,
       "owner": "Wenzel",
       "repo": "awesome-virtualization",
       "stars": 1992,
