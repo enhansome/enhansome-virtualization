@@ -81,7 +81,7 @@ Start in hypervisor security:
 
 ### Specifications
 
-* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,898 | 🐛 203 | 🌐 TeX | 📅 2026-11-25 - The privileged volume defines the hypervisor (H) extension.
+* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,899 | 🐛 210 | 🌐 TeX | 📅 2026-11-26 - The privileged volume defines the hypervisor (H) extension.
 * [VMCS Layout](https://github.com/ayoubfaouzi/cpu-internals/blob/main/VMCS-Layout.pdf) ⭐ 1,216 | 🐛 0 | 🌐 C | 📅 2026-10-16 - Every VMCS field and its encoding on a single page.
 * [VIRTIO specification](https://github.com/oasis-tcs/virtio-spec) ⭐ 306 | 🐛 65 | 🌐 TeX | 📅 2026-06-02 - OASIS standard for paravirtualized devices, implemented by every mainstream hypervisor.
 * [Intel 64 and IA-32 Architectures Software Developer's Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - The reference for VT-x; volume 3C covers VMX operation, the VMCS, VM entries and exits, and EPT.
@@ -203,22 +203,22 @@ Small enough to read in full. Many are no longer maintained and may not build on
 
 ### Production VMMs and research hypervisors
 
-* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,231 | 🐛 163 | 🌐 Rust | 📅 2026-11-25 - AWS, 2018. Minimal KVM-based VMM in Rust behind Lambda and Fargate.
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,582 | 🐛 200 | 🌐 Rust | 📅 2026-11-25 - 2019. Rust VMM for cloud workloads on KVM and Microsoft Hypervisor.
+* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,246 | 🐛 166 | 🌐 Rust | 📅 2026-11-25 - AWS, 2018. Minimal KVM-based VMM in Rust behind Lambda and Fargate.
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,584 | 🐛 203 | 🌐 Rust | 📅 2026-11-27 - 2019. Rust VMM for cloud workloads on KVM and Microsoft Hypervisor.
 * [Intel HAXM](https://github.com/intel/haxm) ⚠️ Archived - Intel, 2017. VT-x accelerator for QEMU on Windows and macOS. Archived.
-* [OpenVMM](https://github.com/microsoft/openvmm) ⭐ 1,983 | 🐛 413 | 🌐 Rust | 📅 2026-11-26 - Microsoft, 2024. Rust VMM that also runs as OpenHCL, the paravisor used for Azure confidential VMs.
+* [OpenVMM](https://github.com/microsoft/openvmm) ⭐ 1,984 | 🐛 403 | 🌐 Rust | 📅 2026-11-26 - Microsoft, 2024. Rust VMM that also runs as OpenHCL, the paravisor used for Azure confidential VMs.
 * [Jailhouse](https://github.com/siemens/jailhouse) ⭐ 1,979 | 🐛 0 | 🌐 C | 📅 2024-05-18 - Siemens, 2013. Linux-based static partitioning hypervisor. No commits since 2024.
 * [Bareflank](https://github.com/Bareflank/hypervisor) ⭐ 1,530 | 🐛 8 | 🌐 C++ | 📅 2024-08-14 - Assured Information Security, 2015. SDK for building custom hypervisors. No commits since 2024.
-* [crosvm](https://github.com/google/crosvm) ⭐ 1,370 | 🐛 2 | 🌐 Rust | 📅 2026-11-25 - Google, 2017. The ChromeOS and Android VMM, where the Rust VMM ecosystem started.
+* [crosvm](https://github.com/google/crosvm) ⭐ 1,371 | 🐛 2 | 🌐 Rust | 📅 2026-11-26 - Google, 2017. The ChromeOS and Android VMM, where the Rust VMM ecosystem started.
 * [ACRN](https://github.com/projectacrn/acrn-hypervisor) ⭐ 1,301 | 🐛 357 | 🌐 C | 📅 2026-04-06 - Intel, 2018. Type-1 hypervisor for embedded and IoT devices.
 * [NEMU](https://github.com/intel/nemu) ⚠️ Archived - Intel, 2018. Stripped-down QEMU fork, superseded by Cloud Hypervisor. Archived.
 * [Xvisor](https://github.com/xvisor/xvisor) ⭐ 628 | 🐛 47 | 🌐 C | 📅 2026-10-01 - 2010. Monolithic type-1 hypervisor for Arm, RISC-V and x86.
 * [rust-vmm](https://github.com/rust-vmm/community) ⭐ 618 | 🐛 47 | 📅 2026-07-21 - 2018. Shared Rust crates (KVM bindings, virtio, guest memory) used by the three VMMs above.
-* [Bao](https://github.com/bao-project/bao-hypervisor) ⭐ 599 | 🐛 50 | 🌐 C | 📅 2026-11-24 - 2020. Static partitioning hypervisor for Arm and RISC-V mixed-criticality systems.
+* [Bao](https://github.com/bao-project/bao-hypervisor) ⭐ 606 | 🐛 52 | 🌐 C | 📅 2026-11-26 - 2020. Static partitioning hypervisor for Arm and RISC-V mixed-criticality systems.
 * [NOVA](https://github.com/udosteinberg/NOVA) ⭐ 481 | 🐛 1 | 🌐 C++ | 📅 2026-10-29 - Udo Steinberg, 2010. Microhypervisor with a small trusted computing base for x86 and Arm.
 * [uhyve](https://github.com/hermit-os/uhyve) ⭐ 299 | 🐛 50 | 🌐 Rust | 📅 2026-11-18 - 2019. Minimal hypervisor for the Hermit unikernel.
+* [MicroV](https://github.com/Bareflank/MicroV) ⭐ 289 | 🐛 16 | 🌐 C++ | 📅 2024-08-22 - Assured Information Security, 2020. Micro-VM hypervisor built on Bareflank. No commits since 2024.
 * [napoca](https://github.com/bitdefender/napoca) ⚠️ Archived - Bitdefender, 2020. Type-1 hypervisor designed to host memory introspection. Archived.
-* [MicroV](https://github.com/Bareflank/MicroV) ⭐ 288 | 🐛 16 | 🌐 C++ | 📅 2024-08-22 - Assured Information Security, 2020. Micro-VM hypervisor built on Bareflank. No commits since 2024.
 * [BitVisor](https://www.bitvisor.org/) - University of Tsukuba, 2008. Thin hypervisor that mediates I/O for a single guest. ([GitHub mirror](https://github.com/matsu/bitvisor) ⭐ 101 | 🐛 4 | 🌐 C | 📅 2026-10-07)
 * [Hedron](https://github.com/cyberus-technology/hedron) ⭐ 87 | 🐛 0 | 🌐 C++ | 📅 2023-10-08 - Cyberus Technology, 2020. NOVA derivative. Unmaintained since 2023.
 * [Boxy](https://github.com/Bareflank/boxy) ⭐ 63 | 🐛 2 | 🌐 C++ | 📅 2020-09-10 - Assured Information Security, 2018. Bareflank-based hypervisor for running guest VMs, the predecessor of MicroV. Unmaintained since 2020.
@@ -229,10 +229,10 @@ Small enough to read in full. Many are no longer maintained and may not build on
 
 Projects that put a virtualization boundary around containers and single processes. Firecracker, Cloud Hypervisor and crosvm, listed above, are the VMMs most of them build on.
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 20,125 | 🐛 1,183 | 🌐 Go | 📅 2026-11-26 - Google, 2018. Application kernel that intercepts container system calls in user space, with an optional KVM platform; a sandbox, not a hypervisor.
-* [Kata Containers](https://github.com/kata-containers/kata-containers) ⭐ 9,220 | 🐛 1,261 | 🌐 Rust | 📅 2026-11-25 - 2017. Container runtime that runs each pod inside its own lightweight VM.
-* [libkrun](https://github.com/libkrun/libkrun) ⭐ 2,957 | 🐛 138 | 🌐 Rust | 📅 2026-11-25 - 2020. Library that embeds a minimal KVM or Hypervisor.framework VMM in a process, used by `crun` and Podman.
-* [go-microvm](https://github.com/stacklok/go-microvm) ⭐ 35 | 🐛 10 | 🌐 Go | 📅 2026-11-20 - Stacklok, 2026. Go framework that runs OCI container images as microVMs through libkrun.
+* [gVisor](https://github.com/google/gvisor) ⭐ 20,134 | 🐛 1,187 | 🌐 Go | 📅 2026-11-26 - Google, 2018. Application kernel that intercepts container system calls in user space, with an optional KVM platform; a sandbox, not a hypervisor.
+* [Kata Containers](https://github.com/kata-containers/kata-containers) ⭐ 9,226 | 🐛 1,270 | 🌐 Rust | 📅 2026-11-27 - 2017. Container runtime that runs each pod inside its own lightweight VM.
+* [libkrun](https://github.com/libkrun/libkrun) ⭐ 2,962 | 🐛 122 | 🌐 Rust | 📅 2026-11-26 - 2020. Library that embeds a minimal KVM or Hypervisor.framework VMM in a process, used by `crun` and Podman.
+* [go-microvm](https://github.com/stacklok/go-microvm) ⭐ 35 | 🐛 11 | 🌐 Go | 📅 2026-11-26 - Stacklok, 2026. Go framework that runs OCI container images as microVMs through libkrun.
 * [My VM is Lighter (and Safer) than your Container](https://doi.org/10.1145/3132747.3132763) - Manco et al., SOSP 2017. Shows that VMs can boot in milliseconds once the toolstack and guest are trimmed.
 * [microvm machine type](https://www.qemu.org/docs/master/system/i386/microvm.html) - QEMU. Minimal x86 machine model with virtio-mmio devices and no PCI, inspired by Firecracker.
 
@@ -240,7 +240,7 @@ Projects that put a virtualization boundary around containers and single process
 
 ### Tools
 
-* [HyperDbg](https://github.com/HyperDbg/HyperDbg) ⭐ 4,230 | 🐛 38 | 🌐 C | 📅 2026-11-17 - Hypervisor-based kernel and user-mode debugger for Windows with EPT hooks and scripting.
+* [HyperDbg](https://github.com/HyperDbg/HyperDbg) ⭐ 4,230 | 🐛 36 | 🌐 C | 📅 2026-11-26 - Hypervisor-based kernel and user-mode debugger for Windows with EPT hooks and scripting.
 * [LibVMI](https://github.com/libvmi/libvmi) ⭐ 781 | 🐛 104 | 🌐 C | 📅 2026-10-22 - The reference VMI library: read and write guest memory and receive hardware events on Xen and KVM.
 * [HVMI](https://github.com/bitdefender/hvmi) ⚠️ Archived - Bitdefender's commercial introspection engine, open-sourced in 2020. Archived.
 * [KVM-VMI](https://github.com/KVM-VMI/kvm-vmi) ⭐ 382 | 🐛 37 | 🌐 Jinja | 📅 2026-10-26 - KVM and QEMU patches that add an introspection API, with setup instructions.
@@ -326,7 +326,7 @@ Projects that put a virtualization boundary around containers and single process
 ### Fuzzing
 
 * [Growing Hypervisor 0day with Hyperseed](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2019_02_OffensiveCon/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf) ⭐ 1,395 | 🐛 13 | 🌐 Python | 📅 2024-08-08 - King and Denbow, OffensiveCon 2019. Microsoft's internal hypercall fuzzer and the bugs it found.
-* [kAFL](https://github.com/IntelLabs/kAFL) ⭐ 820 | 🐛 53 | 🌐 Makefile | 📅 2026-06-19 - Coverage-guided fuzzer for kernels, firmware and hypervisors using Intel PT and VM snapshots.
+* [kAFL](https://github.com/IntelLabs/kAFL) ⭐ 821 | 🐛 53 | 🌐 Makefile | 📅 2026-06-19 - Coverage-guided fuzzer for kernels, firmware and hypervisors using Intel PT and VM snapshots.
 * [hAFL1](https://github.com/SB-GC-Labs/hAFL1) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2021-08-03 - Hadar and Harpaz, 2021. kAFL-based fuzzer for Hyper-V's vmswitch that found CVE-2021-28476. Unmaintained since 2021.
 * [ViDeZZo](https://github.com/HexHive/ViDeZZo) ⭐ 41 | 🐛 3 | 🌐 C | 📅 2026-04-08 - Liu et al., IEEE S\&P 2023. Virtual device fuzzing that models dependencies between messages.
 * [Hyper-Cube: High-Dimensional Hypervisor Fuzzing](https://www.ndss-symposium.org/ndss-paper/hyper-cube-high-dimensional-hypervisor-fuzzing/) - Schumilo et al., NDSS 2020. A custom guest OS that fuzzes every hypervisor interface at once.
@@ -339,7 +339,7 @@ Projects that put a virtualization boundary around containers and single process
 
 ### Confidential VMs
 
-* [COCONUT-SVSM](https://github.com/coconut-svsm/svsm) ⭐ 250 | 🐛 53 | 🌐 Rust | 📅 2026-11-25 - Secure VM Service Module in Rust, running at the most privileged level inside an SEV-SNP guest.
+* [COCONUT-SVSM](https://github.com/coconut-svsm/svsm) ⭐ 251 | 🐛 54 | 🌐 Rust | 📅 2026-11-25 - Secure VM Service Module in Rust, running at the most privileged level inside an SEV-SNP guest.
 * [AMD Secure Encrypted Virtualization](https://www.amd.com/en/developer/sev.html) - Specifications and white papers for SEV, SEV-ES and SEV-SNP.
 * [Intel Trust Domain Extensions](https://www.intel.com/content/www/us/en/developer/tools/trust-domain-extensions/overview.html) - Specifications and documentation for TDX.
 * [Arm Confidential Compute Architecture](https://www.arm.com/architecture/security-features/arm-confidential-compute-architecture) - Specifications for realms, the RMM and the Realm Management Extension.
@@ -350,20 +350,20 @@ Projects that put a virtualization boundary around containers and single process
 
 ### VM detection and malware analysis
 
-* [al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,202 | 🐛 42 | 🌐 C++ | 📅 2026-11-11 - Proof-of-concept collection of the anti-VM, anti-debug and anti-sandbox tricks used by malware.
-* [VMAware](https://github.com/NotRequiem/VMAware) ⭐ 1,524 | 🐛 0 | 🌐 C++ | 📅 2026-11-22 - C++ library and tool implementing a large catalogue of VM detection techniques.
+* [al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,203 | 🐛 42 | 🌐 C++ | 📅 2026-11-11 - Proof-of-concept collection of the anti-VM, anti-debug and anti-sandbox tricks used by malware.
+* [VMAware](https://github.com/NotRequiem/VMAware) ⭐ 1,525 | 🐛 0 | 🌐 C++ | 📅 2026-11-22 - C++ library and tool implementing a large catalogue of VM detection techniques.
 * [Reverse Engineering By Crayon: Hypervisor Based Malware Analysis and Visualization](https://www.youtube.com/watch?v=i3I8wtrjYY4) - Quist and Liebrock, DEF CON 17, 2009. Tracing malware from a modified hypervisor.
 * [Hypervisors In Ur Toolbox: Monitoring N Controlling System Events With HyperPlatform](https://www.youtube.com/watch?v=oSkP5k0Bkgk) - Satoshi Tanda, Nullcon 2017. Using a thin hypervisor as a malware analysis tool.
 * [How to hide a hook: A hypervisor for rootkits](http://phrack.org/issues/69/15.html#article) - Phrack 69, 2016. Hiding kernel hooks with split EPT views.
 
 ## Related lists
 
-* [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) ⭐ 1,170 | 🐛 0 | 📅 2026-11-22 - Proxmox VE documentation and tools.
+* [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) ⭐ 1,172 | 🐛 0 | 📅 2026-11-22 - Proxmox VE documentation and tools.
 * [awesome-vm-escape](https://github.com/winmin/awesome-vm-escape) ⭐ 620 | 🐛 0 | 📅 2026-03-18 - VM and QEMU escape exploits and write-ups.
 * [awesome-sandbox](https://github.com/restyler/awesome-sandbox) ⭐ 620 | 🐛 30 | 📅 2026-08-12 - Code sandboxing for AI, including microVM-based sandboxes.
 * [awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation) ⭐ 481 | 🐛 0 | 📅 2025-04-11 - Hyper-V exploitation, fuzzing and vulnerability research.
-* [awesome-confidential-computing](https://github.com/bpradipt/awesome-confidential-computing) ⭐ 36 | 🐛 6 | 📅 2026-10-23 - Confidential computing projects, attestation and the wider ecosystem.
+* [awesome-confidential-computing](https://github.com/bpradipt/awesome-confidential-computing) ⭐ 36 | 🐛 0 | 📅 2026-11-26 - Confidential computing projects, attestation and the wider ecosystem.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
